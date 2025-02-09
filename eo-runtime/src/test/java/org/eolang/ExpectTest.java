@@ -34,7 +34,7 @@ import org.junit.jupiter.api.Test;
  * @since 0.1.0
  */
 @SuppressWarnings("PMD.TooManyMethods")
-final class ExpectTest {
+public final class ExpectTest {
 
     @Test
     void buildsAndChecksWithoutErrors() {
@@ -294,6 +294,70 @@ final class ExpectTest {
             ).getMessage(),
             Matchers.equalTo("the 'ρ' attribute (-42) must be greater or equal to zero")
         );
+    }
+
+    /**
+     * Test that dataization Phi throws error about incorrect attr which must use {@link Expect.Number}.
+     *
+     * @since 0.51
+     */
+    public static final class Number {
+        private final Phi phi;
+
+        /**
+         * Ctor.
+         * @param phi Phi for dataization
+         */
+        public Number(Phi phi) {
+            this.phi = phi;
+        }
+
+        /**
+         * Perform test.
+         */
+        public void it() {
+            MatcherAssert.assertThat(
+                "the message in the error is correct",
+                Assertions.assertThrows(
+                    ExAbstract.class,
+                    () -> new Dataized(phi).take(),
+                    "fails with correct error message while transform Phi to Number"
+                ).getMessage(),
+                Matchers.matchesRegex(".*the '.*' attribute must be a number.*")
+            );
+        }
+    }
+
+    /**
+     * Test that dataization Phi throws error about incorrect attr which must use {@link Expect.Int}.
+     *
+     * @since 0.51
+     */
+    public static final class Int {
+        private final Phi phi;
+
+        /**
+         * Ctor.
+         * @param phi Phi for dataization
+         */
+        public Int(Phi phi) {
+            this.phi = phi;
+        }
+
+        /**
+         * Perform test.
+         */
+        public void it() {
+            MatcherAssert.assertThat(
+                "the message in the error is correct",
+                Assertions.assertThrows(
+                    ExAbstract.class,
+                    () -> new Dataized(phi).take(),
+                    "fails with correct error message while transform Phi to Integer"
+                ).getMessage(),
+                Matchers.matchesRegex(".*the '.*' attribute \\(.*\\) must be an integer.*")
+            );
+        }
     }
 
 }

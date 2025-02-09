@@ -28,14 +28,12 @@
  */
 package EOorg.EOeolang; // NOPMD
 
-import org.cactoos.text.TextOf;
-import org.cactoos.text.UncheckedText;
 import org.eolang.Data;
 import org.eolang.Dataized;
+import org.eolang.ExpectTest;
 import org.eolang.PhWith;
 import org.hamcrest.MatcherAssert;
 import org.hamcrest.Matchers;
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 /**
@@ -69,33 +67,40 @@ final class EObytesEOsliceTest {
     }
 
     @Test
-    void takesWrongSlice() {
-        MatcherAssert.assertThat(
-            "error message is correct",
-            new UncheckedText(
-                new TextOf(
-                    Assertions.assertThrows(
-                        EOerror.ExError.class,
-                        () -> new Dataized(
-                            new PhWith(
-                                new PhWith(
-                                    new Data.ToPhi("hello, world!")
-                                        .take("as-bytes")
-                                        .take("slice")
-                                        .copy(),
-                                    "start",
-                                    new Data.ToPhi(2)
-                                ),
-                                "len",
-                                new Data.ToPhi(-5)
-                            )
-                        ).asString(),
-                        "fails on check"
-                    )
-                )
-            ).asString(),
-            Matchers.containsString("the 'len' attribute (-5) must be a positive integer")
-        );
+    void lenAttrMustBeNumber() {
+        new ExpectTest.Number(
+            new PhWith(
+                new PhWith(
+                    new Data.ToPhi("hello, world!")
+                        .take("as-bytes")
+                        .take("slice")
+                        .copy(),
+                    "start",
+                    new Data.ToPhi(2)
+                ),
+                "len",
+                new Data.ToPhi(true)
+            )
+        ).it();
+    }
+
+
+    @Test
+    void lenAttrMustBeInteger() {
+        new ExpectTest.Int(
+            new PhWith(
+                new PhWith(
+                    new Data.ToPhi("hello, world!")
+                        .take("as-bytes")
+                        .take("slice")
+                        .copy(),
+                    "start",
+                    new Data.ToPhi(2)
+                ),
+                "len",
+                new Data.ToPhi(42.42)
+            )
+        ).it();
     }
 
 }
