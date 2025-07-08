@@ -1,972 +1,1953 @@
 ---
 - added: 8
   cycles: 1
-  error: 'GET https://api.github.com/repos/objectionary/eo/actions/runs/16056533018:
-    500 - '
   removed: 8
-  seconds: 620.707282015
+  seconds: 470.260880727
   version: 0.31.1
   what: judges-summary
-  when: 2025-07-08 11:28:19.130693693 Z
+  when: 2025-07-08 12:49:06.745295008 Z
 - _id: 1
-  _time: 2025-07-08 11:20:42.266407366 Z
+  _time: 2025-07-08 12:43:33.686505912 Z
   _version: 0.5.0/0.31.1/
   total_active_contributors: 12
-  total_commits: 28017
+  total_commits: 28031
   total_contributors: 95
-  total_files: 4883
+  total_files: 4885
   total_forks: 334
-  total_issues: 4395
-  total_pulls: 6447
+  total_issues: 4399
+  total_pulls: 6450
   total_releases: 650
   total_repositories: 45
   total_stars: 1656
   what: dimensions-of-terrain
-  when: 2025-07-08 11:17:58.742405073 Z
+  when: 2025-07-08 12:41:16.795105048 Z
 - _id: 2
-  _time: 2025-07-08 11:20:56.659301450 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 501942888
-  what: min-issue-was-found
-  where: github
-- _id: 3
-  _time: 2025-07-08 11:20:56.663117733 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 565789755
-  what: min-issue-was-found
-  where: github
-- _id: 4
-  _time: 2025-07-08 11:20:56.666403463 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 840332960
-  what: min-issue-was-found
-  where: github
-- _id: 5
-  _time: 2025-07-08 11:20:56.669977994 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 970961472
-  what: min-issue-was-found
-  where: github
-- _id: 6
-  _time: 2025-07-08 11:20:56.673398547 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 731438612
-  what: min-issue-was-found
-  where: github
-- _id: 7
-  _time: 2025-07-08 11:20:56.677015908 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 624420387
-  what: min-issue-was-found
-  where: github
-- _id: 8
-  _time: 2025-07-08 11:20:56.680529594 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 519246071
-  what: min-issue-was-found
-  where: github
-- _id: 9
-  _time: 2025-07-08 11:20:56.684131977 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 386420319
-  what: min-issue-was-found
-  where: github
-- _id: 10
-  _time: 2025-07-08 11:20:56.687773624 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 568705267
-  what: min-issue-was-found
-  where: github
-- _id: 11
-  _time: 2025-07-08 11:20:56.691491984 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 493235807
-  what: min-issue-was-found
-  where: github
-- _id: 12
-  _time: 2025-07-08 11:20:56.695096821 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 551486781
-  what: min-issue-was-found
-  where: github
-- _id: 13
-  _time: 2025-07-08 11:20:56.698866147 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 73056727
-  what: min-issue-was-found
-  where: github
-- _id: 14
-  _time: 2025-07-08 11:20:56.702563087 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 489321585
-  what: min-issue-was-found
-  where: github
-- _id: 15
-  _time: 2025-07-08 11:20:56.705708604 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 543969974
-  what: min-issue-was-found
-  where: github
-- _id: 16
-  _time: 2025-07-08 11:20:56.708906080 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 490157985
-  what: min-issue-was-found
-  where: github
-- _id: 17
-  _time: 2025-07-08 11:20:56.712176561 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 671896902
-  what: min-issue-was-found
-  where: github
-- _id: 18
-  _time: 2025-07-08 11:20:56.715439619 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 499536612
-  what: min-issue-was-found
-  where: github
-- _id: 19
-  _time: 2025-07-08 11:20:56.718790141 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 955159947
-  what: min-issue-was-found
-  where: github
-- _id: 20
-  _time: 2025-07-08 11:20:56.722240068 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 559427983
-  what: min-issue-was-found
-  where: github
-- _id: 21
-  _time: 2025-07-08 11:20:56.725720653 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 731516758
-  what: min-issue-was-found
-  where: github
-- _id: 22
-  _time: 2025-07-08 11:20:56.735916157 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 570457023
-  what: min-issue-was-found
-  where: github
-- _id: 23
-  _time: 2025-07-08 11:20:56.739377245 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 490258619
-  what: min-issue-was-found
-  where: github
-- _id: 24
-  _time: 2025-07-08 11:20:56.742814139 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 403396472
-  what: min-issue-was-found
-  where: github
-- _id: 25
-  _time: 2025-07-08 11:20:56.746332605 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 510102039
-  what: min-issue-was-found
-  where: github
-- _id: 26
-  _time: 2025-07-08 11:20:56.749930058 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 483303722
-  what: min-issue-was-found
-  where: github
-- _id: 27
-  _time: 2025-07-08 11:20:56.753565894 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 784310467
-  what: min-issue-was-found
-  where: github
-- _id: 28
-  _time: 2025-07-08 11:20:56.757290265 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 889819508
-  what: min-issue-was-found
-  where: github
-- _id: 29
-  _time: 2025-07-08 11:20:56.760960054 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 490221501
-  what: min-issue-was-found
-  where: github
-- _id: 30
-  _time: 2025-07-08 11:20:56.764749147 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 482612876
-  what: min-issue-was-found
-  where: github
-- _id: 31
-  _time: 2025-07-08 11:20:56.768608431 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 447446664
-  what: min-issue-was-found
-  where: github
-- _id: 32
-  _time: 2025-07-08 11:20:56.772588020 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 733919301
-  what: min-issue-was-found
-  where: github
-- _id: 33
-  _time: 2025-07-08 11:20:56.776603135 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 396732517
-  what: min-issue-was-found
-  where: github
-- _id: 34
-  _time: 2025-07-08 11:20:56.780693472 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 531151981
-  what: min-issue-was-found
-  where: github
-- _id: 35
-  _time: 2025-07-08 11:20:56.784831387 Z
+  _time: 2025-07-08 12:43:33.854700815 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 546194972
   what: min-issue-was-found
   where: github
-- _id: 36
-  _time: 2025-07-08 11:20:56.789057447 Z
+- _id: 3
+  _time: 2025-07-08 12:43:33.857259004 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 721146770
+  repository: 493235807
   what: min-issue-was-found
   where: github
-- _id: 37
-  _time: 2025-07-08 11:20:56.793330345 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 798766850
-  what: min-issue-was-found
-  where: github
-- _id: 38
-  _time: 2025-07-08 11:20:56.797676821 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 574459304
-  what: min-issue-was-found
-  where: github
-- _id: 39
-  _time: 2025-07-08 11:20:56.811007974 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 977982682
-  what: min-issue-was-found
-  where: github
-- _id: 40
-  _time: 2025-07-08 11:20:56.819284616 Z
+- _id: 4
+  _time: 2025-07-08 12:43:33.859813306 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 574534248
   what: min-issue-was-found
   where: github
-- _id: 41
-  _time: 2025-07-08 11:20:56.827079197 Z
+- _id: 5
+  _time: 2025-07-08 12:43:33.862486231 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 13623548
+  repository: 731438612
   what: min-issue-was-found
   where: github
-- _id: 42
-  _time: 2025-07-08 11:20:56.832483653 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 519299365
-  what: min-issue-was-found
-  where: github
-- _id: 43
-  _time: 2025-07-08 11:20:56.837886135 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 558766137
-  what: min-issue-was-found
-  where: github
-- _id: 44
-  _time: 2025-07-08 11:20:56.843356545 Z
+- _id: 6
+  _time: 2025-07-08 12:43:33.865125362 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 510082372
   what: min-issue-was-found
   where: github
-- _id: 45
-  _time: 2025-07-08 11:20:56.848764427 Z
+- _id: 7
+  _time: 2025-07-08 12:43:33.867839815 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 492899189
+  repository: 731516758
   what: min-issue-was-found
   where: github
-- _id: 46
-  _time: 2025-07-08 11:20:56.854540899 Z
+- _id: 8
+  _time: 2025-07-08 12:43:33.870592850 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 543969974
+  what: min-issue-was-found
+  where: github
+- _id: 9
+  _time: 2025-07-08 12:43:33.873364802 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 519299365
+  what: min-issue-was-found
+  where: github
+- _id: 10
+  _time: 2025-07-08 12:43:33.876187518 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 13623548
+  what: min-issue-was-found
+  where: github
+- _id: 11
+  _time: 2025-07-08 12:43:33.879109632 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 490221501
+  what: min-issue-was-found
+  where: github
+- _id: 12
+  _time: 2025-07-08 12:43:33.885286453 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 570457023
+  what: min-issue-was-found
+  where: github
+- _id: 13
+  _time: 2025-07-08 12:43:33.889782245 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 721146770
+  what: min-issue-was-found
+  where: github
+- _id: 14
+  _time: 2025-07-08 12:43:33.894453627 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 798766850
+  what: min-issue-was-found
+  where: github
+- _id: 15
+  _time: 2025-07-08 12:43:33.899560908 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 483303722
+  what: min-issue-was-found
+  where: github
+- _id: 16
+  _time: 2025-07-08 12:43:33.903853438 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 396732517
+  what: min-issue-was-found
+  where: github
+- _id: 17
+  _time: 2025-07-08 12:43:33.908064024 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 955159947
+  what: min-issue-was-found
+  where: github
+- _id: 18
+  _time: 2025-07-08 12:43:33.912359890 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 559427983
+  what: min-issue-was-found
+  where: github
+- _id: 19
+  _time: 2025-07-08 12:43:33.916316548 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 501942888
+  what: min-issue-was-found
+  where: github
+- _id: 20
+  _time: 2025-07-08 12:43:33.920157709 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 489321585
+  what: min-issue-was-found
+  where: github
+- _id: 21
+  _time: 2025-07-08 12:43:33.923935681 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 531151981
+  what: min-issue-was-found
+  where: github
+- _id: 22
+  _time: 2025-07-08 12:43:33.927740464 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 977982682
+  what: min-issue-was-found
+  where: github
+- _id: 23
+  _time: 2025-07-08 12:43:33.931611862 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 490157985
+  what: min-issue-was-found
+  where: github
+- _id: 24
+  _time: 2025-07-08 12:43:33.935508227 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 519246071
+  what: min-issue-was-found
+  where: github
+- _id: 25
+  _time: 2025-07-08 12:43:33.939206249 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 551486781
+  what: min-issue-was-found
+  where: github
+- _id: 26
+  _time: 2025-07-08 12:43:33.942847304 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 970961472
+  what: min-issue-was-found
+  where: github
+- _id: 27
+  _time: 2025-07-08 12:43:33.946511953 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 889819508
+  what: min-issue-was-found
+  where: github
+- _id: 28
+  _time: 2025-07-08 12:43:33.950268435 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 499536612
+  what: min-issue-was-found
+  where: github
+- _id: 29
+  _time: 2025-07-08 12:43:33.954089889 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 501259435
   what: min-issue-was-found
   where: github
+- _id: 30
+  _time: 2025-07-08 12:43:33.957948853 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 784310467
+  what: min-issue-was-found
+  where: github
+- _id: 31
+  _time: 2025-07-08 12:43:33.961885685 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 568705267
+  what: min-issue-was-found
+  where: github
+- _id: 32
+  _time: 2025-07-08 12:43:33.969269355 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 482612876
+  what: min-issue-was-found
+  where: github
+- _id: 33
+  _time: 2025-07-08 12:43:33.973238337 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 671896902
+  what: min-issue-was-found
+  where: github
+- _id: 34
+  _time: 2025-07-08 12:43:33.977275366 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 558766137
+  what: min-issue-was-found
+  where: github
+- _id: 35
+  _time: 2025-07-08 12:43:33.981411291 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 624420387
+  what: min-issue-was-found
+  where: github
+- _id: 36
+  _time: 2025-07-08 12:43:33.985563246 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 492899189
+  what: min-issue-was-found
+  where: github
+- _id: 37
+  _time: 2025-07-08 12:43:33.989760848 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 840332960
+  what: min-issue-was-found
+  where: github
+- _id: 38
+  _time: 2025-07-08 12:43:33.994008844 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 565789755
+  what: min-issue-was-found
+  where: github
+- _id: 39
+  _time: 2025-07-08 12:43:33.998349253 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 733919301
+  what: min-issue-was-found
+  where: github
+- _id: 40
+  _time: 2025-07-08 12:43:34.002843462 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 490258619
+  what: min-issue-was-found
+  where: github
+- _id: 41
+  _time: 2025-07-08 12:43:34.007340296 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 447446664
+  what: min-issue-was-found
+  where: github
+- _id: 42
+  _time: 2025-07-08 12:43:34.011991149 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 510102039
+  what: min-issue-was-found
+  where: github
+- _id: 43
+  _time: 2025-07-08 12:43:34.020060619 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 73056727
+  what: min-issue-was-found
+  where: github
+- _id: 44
+  _time: 2025-07-08 12:43:34.026579504 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 403396472
+  what: min-issue-was-found
+  where: github
+- _id: 45
+  _time: 2025-07-08 12:43:34.032858027 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 574459304
+  what: min-issue-was-found
+  where: github
+- _id: 46
+  _time: 2025-07-08 12:43:34.038934030 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 386420319
+  what: min-issue-was-found
+  where: github
 - _id: 47
-  _time: 2025-07-08 11:20:59.365834007 Z
+  _time: 2025-07-08 12:43:34.518389651 Z
   _version: 0.5.0/0.31.1/
-  branch: claude/issue-4299-20250707_063521
-  comments: 7
-  comments_appreciated: 0
-  comments_by_author: 1
-  comments_by_reviewers: 6
-  comments_resolved: 1
-  comments_to_code: 2
-  details: The pull request objectionary/eo#4356 has been closed by @yegor256, with
-    76 HoC and 7 comments.
-  event_id: 51760376845
-  event_type: PullRequestEvent
-  failed_builds: 7
-  hoc: 76
-  is_human: 1
-  issue: 4356
-  repository: 73056727
-  succeeded_builds: 17
-  what: pull-was-closed
-  when: 2025-07-07 06:57:38.000000000 Z
-  where: github
-  who: 526301
-- _id: 48
-  _time: 2025-07-08 11:21:12.999227693 Z
-  _version: 0.5.0/0.31.1/
-  details: The issue objectionary/eo#4273 has been closed by @yegor256.
-  event_id: 51760060320
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 4273
-  repository: 73056727
-  what: issue-was-closed
-  when: 2025-07-07 06:48:54.000000000 Z
-  where: github
-  who: 526301
-- _id: 49
-  _time: 2025-07-08 11:21:13.014227239 Z
-  _version: 0.5.0/0.31.1/
-  details: The issue objectionary/eo#4292 has been closed by @yegor256.
-  event_id: 51760042117
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 4292
-  repository: 73056727
-  what: issue-was-closed
-  when: 2025-07-07 06:48:23.000000000 Z
-  where: github
-  who: 526301
-- _id: 50
-  _time: 2025-07-08 11:21:13.023261259 Z
-  _version: 0.5.0/0.31.1/
-  details: The issue objectionary/eo#4296 has been closed by @yegor256.
-  event_id: 51760023122
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 4296
-  repository: 73056727
-  what: issue-was-closed
-  when: 2025-07-07 06:47:52.000000000 Z
-  where: github
-  who: 526301
-- _id: 51
-  _time: 2025-07-08 11:21:13.522611193 Z
-  _version: 0.5.0/0.31.1/
-  branch: claude/issue-4299-20250707_063521
-  details: The pull request objectionary/eo#4356 has been opened by @yegor256.
-  event_id: 51759901862
-  event_type: PullRequestEvent
-  is_human: 1
-  issue: 4356
-  repository: 73056727
-  what: pull-was-opened
-  when: 2025-07-07 06:44:28.000000000 Z
-  where: github
-  who: 526301
-- _id: 52
-  _time: 2025-07-08 11:21:13.587192926 Z
-  _version: 0.5.0/0.31.1/
-  commit: e200a9ad4678ca39a7472bb67e5d966cfd00887a
-  default_branch: master
-  details: 'A new Git push #25333342450 has arrived to objectionary/eo, made by @yegor256
-    (default branch is ''master''), not associated with any pull request.'
-  event_id: 51759510591
-  event_type: PushEvent
-  is_human: 1
-  push_id: 25333342450
-  ref: refs/heads/master
-  repository: 73056727
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-07-07 06:32:46.000000000 Z
-  where: github
-  who: 526301
-- _id: 53
-  _time: 2025-07-08 11:21:13.830236226 Z
-  _version: 0.5.0/0.31.1/
-  commit: '019a02d5ad874b3c26dac03dde437b6cb0523795'
-  default_branch: master
-  details: 'A new Git push #25333326629 has arrived to objectionary/eo, made by @yegor256
-    (default branch is ''master''), not associated with any pull request.'
-  event_id: 51759478227
-  event_type: PushEvent
-  is_human: 1
-  push_id: 25333326629
-  ref: refs/heads/master
-  repository: 73056727
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-07-07 06:31:47.000000000 Z
-  where: github
-  who: 526301
-- _id: 54
-  _time: 2025-07-08 11:21:14.080418797 Z
-  _version: 0.5.0/0.31.1/
-  commit: 14ae8439dba3905e7fd924c9ea14d936b4d8464f
-  default_branch: master
-  details: 'A new Git push #25333266604 has arrived to objectionary/eo, made by @yegor256
-    (default branch is ''master''), not associated with any pull request.'
-  event_id: 51759357560
-  event_type: PushEvent
-  is_human: 1
-  push_id: 25333266604
-  ref: refs/heads/master
-  repository: 73056727
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-07-07 06:28:12.000000000 Z
-  where: github
-  who: 526301
-- _id: 55
-  _time: 2025-07-08 11:21:14.689514056 Z
-  _version: 0.5.0/0.31.1/
-  branch: add-claude-github-actions-1751869451965
-  comments: 2
+  branch: renovate/junit5-monorepo
+  comments: 0
   comments_appreciated: 0
   comments_by_author: 0
-  comments_by_reviewers: 4
+  comments_by_reviewers: 0
   comments_resolved: 0
   comments_to_code: 0
-  details: The pull request objectionary/eo#4355 has been closed by @yegor256, with
-    134 HoC and 2 comments.
-  event_id: 51759257226
+  details: The pull request objectionary/xax#125 has been closed by @renovate[bot],
+    with 2 HoC and 0 comments.
+  event_id: 51295248931
   event_type: PullRequestEvent
-  failed_builds: 4
-  hoc: 134
-  is_human: 1
-  issue: 4355
-  repository: 73056727
-  succeeded_builds: 20
-  what: pull-was-merged
-  when: 2025-07-07 06:25:09.000000000 Z
+  failed_builds: 7
+  hoc: 2
+  is_human: 0
+  issue: 125
+  repository: 574534248
+  succeeded_builds: 8
+  what: pull-was-closed
+  when: 2025-06-24 20:13:00.000000000 Z
   where: github
-  who: 526301
-- _id: 56
-  _time: 2025-07-08 11:21:26.721806914 Z
+  who: 29139614
+- _id: 48
+  _time: 2025-07-08 12:43:40.635612173 Z
   _version: 0.5.0/0.31.1/
-  branch: add-claude-github-actions-1751869451965
-  details: The pull request objectionary/eo#4355 has been opened by @yegor256.
-  event_id: 51759236466
+  branch: renovate/crate-ci-typos-1.x
+  details: The pull request objectionary/xax#135 has been opened by @renovate[bot].
+  event_id: 51295244424
   event_type: PullRequestEvent
-  is_human: 1
-  issue: 4355
-  repository: 73056727
+  is_human: 0
+  issue: 135
+  repository: 574534248
   what: pull-was-opened
-  when: 2025-07-07 06:24:31.000000000 Z
+  when: 2025-06-24 20:12:53.000000000 Z
   where: github
-  who: 526301
-- _id: 57
-  _time: 2025-07-08 11:21:27.159404264 Z
+  who: 29139614
+- _id: 49
+  _time: 2025-07-08 12:43:40.685612802 Z
   _version: 0.5.0/0.31.1/
-  details: The issue objectionary/eo#1946 has been closed by @yegor256.
-  event_id: 51745113755
+  latest: 51674016006
+  repository: 574534248
+  what: events-were-scanned
+  where: github
+- _id: 50
+  _time: 2025-07-08 12:43:42.181026371 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/phino#170 has been closed by @maxonfjvipon.
+  event_id: 51789728471
   event_type: IssuesEvent
   is_human: 1
-  issue: 1946
-  repository: 73056727
+  issue: 170
+  repository: 977982682
   what: issue-was-closed
-  when: 2025-07-06 15:51:09.000000000 Z
+  when: 2025-07-07 17:52:35.000000000 Z
   where: github
-  who: 526301
-- _id: 58
-  _time: 2025-07-08 11:21:27.222610715 Z
+  who: 37025995
+- _id: 51
+  _time: 2025-07-08 12:43:42.420916388 Z
   _version: 0.5.0/0.31.1/
-  details: The issue objectionary/eo#4353 has been closed by @yegor256.
-  event_id: 51743514586
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 4353
-  repository: 73056727
-  what: issue-was-closed
-  when: 2025-07-06 14:01:20.000000000 Z
+  commits: 391
+  contributors:
+  - 37025995
+  - 526301
+  - 198982749
+  - 8086956
+  - 41898282
+  - 29139614
+  details: A new release '`--sweet` produces incorrect output' has been published
+    in objectionary/phino by @rultor.
+  event_id: 51788313630
+  event_type: ReleaseEvent
+  hoc: 6349
+  is_human: 0
+  last_commit: 83c9444be35ce89f24c3fec838beb7bedb717e8f
+  release: 230546417
+  repository: 977982682
+  tag: 0.0.14
+  what: release-published
+  when: 2025-07-07 17:14:40.000000000 Z
   where: github
-  who: 526301
-- _id: 59
-  _time: 2025-07-08 11:21:27.574762767 Z
+  who: 8086956
+- _id: 52
+  _time: 2025-07-08 12:43:47.731343039 Z
   _version: 0.5.0/0.31.1/
-  branch: '4353'
-  comments: 4
-  comments_appreciated: 0
-  comments_by_author: 1
-  comments_by_reviewers: 5
-  comments_resolved: 1
-  comments_to_code: 1
-  details: The pull request objectionary/eo#4354 has been closed by @yegor256, with
-    11 HoC and 4 comments.
-  event_id: 51743514429
+  branch: version-up
+  details: The pull request objectionary/phino#180 has been opened by @github-actions[bot].
+  event_id: 51788300750
   event_type: PullRequestEvent
-  failed_builds: 0
-  hoc: 11
-  is_human: 1
-  issue: 4354
-  repository: 73056727
-  succeeded_builds: 23
-  what: pull-was-merged
-  when: 2025-07-06 14:01:19.000000000 Z
-  where: github
-  who: 526301
-- _id: 60
-  _time: 2025-07-08 11:21:39.785502869 Z
-  _version: 0.5.0/0.31.1/
-  comments: 6
-  commits: 7
-  details: The pull request objectionary/eo#4354 has been reviewed by @yegor256 with
-    11 HoC and 6 comments.
-  event_id: 51743508569
-  event_type: PullRequestReviewEvent
-  files: 2
-  hoc: 11
-  is_human: 1
-  issue: 4354
-  repository: 73056727
-  what: pull-was-reviewed
-  when: 2025-07-06 14:00:58.000000000 Z
-  where: github
-  who: 526301
-- _id: 61
-  _time: 2025-07-08 11:21:40.183056442 Z
-  _version: 0.5.0/0.31.1/
-  branch: '4353'
-  details: The pull request objectionary/eo#4354 has been opened by @h1alexbel.
-  event_id: 51741607949
-  event_type: PullRequestEvent
-  is_human: 1
-  issue: 4354
-  repository: 73056727
+  is_human: 0
+  issue: 180
+  repository: 977982682
   what: pull-was-opened
-  when: 2025-07-06 11:46:44.000000000 Z
+  when: 2025-07-07 17:14:18.000000000 Z
   where: github
-  who: 83453843
-- _id: 62
-  _time: 2025-07-08 11:21:40.201427098 Z
+  who: 41898282
+- _id: 53
+  _time: 2025-07-08 12:43:47.843180694 Z
   _version: 0.5.0/0.31.1/
-  details: The issue objectionary/eo#4353 has been opened by @h1alexbel.
-  event_id: 51741560979
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 4353
-  repository: 73056727
-  what: issue-was-opened
-  when: 2025-07-06 11:42:59.000000000 Z
+  details: A new tag '0.0.14' has been created in objectionary/phino by @rultor.
+  event_id: 51788290955
+  event_type: CreateEvent
+  is_human: 0
+  repository: 977982682
+  tag: 0.0.14
+  what: tag-was-created
+  when: 2025-07-07 17:14:03.000000000 Z
   where: github
-  who: 83453843
-- _id: 63
-  _time: 2025-07-08 11:21:40.226459504 Z
+  who: 8086956
+- _id: 54
+  _time: 2025-07-08 12:43:48.204274196 Z
   _version: 0.5.0/0.31.1/
-  branch: '4335'
-  details: The pull request objectionary/eo#4352 has been opened by @h1alexbel.
-  event_id: 51741346828
-  event_type: PullRequestEvent
-  is_human: 1
-  issue: 4352
-  repository: 73056727
-  what: pull-was-opened
-  when: 2025-07-06 11:25:44.000000000 Z
-  where: github
-  who: 83453843
-- _id: 64
-  _time: 2025-07-08 11:21:40.628504638 Z
-  _version: 0.5.0/0.31.1/
-  branch: renovate/org.apache.maven.plugins-maven-enforcer-plugin-3.x
-  comments: 2
+  branch: bug/#178/escape-hex
+  comments: 1
   comments_appreciated: 0
   comments_by_author: 0
   comments_by_reviewers: 2
   comments_resolved: 0
   comments_to_code: 0
-  details: The pull request objectionary/eo#4344 has been closed by @yegor256, with
-    2 HoC and 2 comments.
-  event_id: 51737403271
+  details: The pull request objectionary/phino#179 has been closed by @maxonfjvipon,
+    with 70 HoC and 1 comments.
+  event_id: 51787812206
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 70
+  is_human: 1
+  issue: 179
+  repository: 977982682
+  succeeded_builds: 13
+  what: pull-was-merged
+  when: 2025-07-07 17:01:21.000000000 Z
+  where: github
+  who: 37025995
+- _id: 55
+  _time: 2025-07-08 12:43:53.670955342 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#178/escape-hex
+  details: The pull request objectionary/phino#179 has been opened by @maxonfjvipon.
+  event_id: 51787631029
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 179
+  repository: 977982682
+  what: pull-was-opened
+  when: 2025-07-07 16:56:40.000000000 Z
+  where: github
+  who: 37025995
+- _id: 56
+  _time: 2025-07-08 12:43:53.870200398 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/phino#93 has been closed by @rultor.
+  event_id: 51786302228
+  event_type: IssuesEvent
+  is_human: 0
+  issue: 93
+  repository: 977982682
+  what: issue-was-closed
+  when: 2025-07-07 16:22:46.000000000 Z
+  where: github
+  who: 8086956
+- _id: 57
+  _time: 2025-07-08 12:43:53.882597742 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#93/rule-copy-simplify
+  comments: 4
+  comments_appreciated: 1
+  comments_by_author: 1
+  comments_by_reviewers: 5
+  comments_resolved: 1
+  comments_to_code: 1
+  details: The pull request objectionary/phino#177 has been closed by @rultor, with
+    383 HoC and 4 comments.
+  event_id: 51786301734
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 383
+  is_human: 0
+  issue: 177
+  repository: 977982682
+  succeeded_builds: 13
+  what: pull-was-merged
+  when: 2025-07-07 16:22:45.000000000 Z
+  where: github
+  who: 8086956
+- _id: 58
+  _time: 2025-07-08 12:44:05.859725217 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/phino#178 has been opened by @yegor256.
+  event_id: 51784960646
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 178
+  repository: 977982682
+  what: issue-was-opened
+  when: 2025-07-07 15:51:20.000000000 Z
+  where: github
+  who: 526301
+- _id: 59
+  _time: 2025-07-08 12:44:05.885227486 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#93/rule-copy-simplify
+  details: The pull request objectionary/phino#177 has been opened by @maxonfjvipon.
+  event_id: 51784699655
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 177
+  repository: 977982682
+  what: pull-was-opened
+  when: 2025-07-07 15:45:22.000000000 Z
+  where: github
+  who: 37025995
+- _id: 60
+  _time: 2025-07-08 12:44:06.374040567 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#170/executable-for-oss
+  comments: 1
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 2
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/phino#176 has been closed by @maxonfjvipon,
+    with 10 HoC and 1 comments.
+  event_id: 51719770355
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 10
+  is_human: 1
+  issue: 176
+  repository: 977982682
+  succeeded_builds: 13
+  what: pull-was-merged
+  when: 2025-07-05 04:22:21.000000000 Z
+  where: github
+  who: 37025995
+- _id: 61
+  _time: 2025-07-08 12:44:12.315512634 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#170/executable-for-oss
+  details: The pull request objectionary/phino#176 has been opened by @maxonfjvipon.
+  event_id: 51713777646
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 176
+  repository: 977982682
+  what: pull-was-opened
+  when: 2025-07-04 20:12:31.000000000 Z
+  where: github
+  who: 37025995
+- _id: 62
+  _time: 2025-07-08 12:44:12.714689361 Z
+  _version: 0.5.0/0.31.1/
+  branch: version-up
+  comments: 1
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 1
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/phino#175 has been closed by @maxonfjvipon,
+    with 2 HoC and 1 comments.
+  event_id: 51698073650
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 2
+  is_human: 1
+  issue: 175
+  repository: 977982682
+  succeeded_builds: 0
+  what: pull-was-merged
+  when: 2025-07-04 11:16:32.000000000 Z
+  where: github
+  who: 37025995
+- _id: 63
+  _time: 2025-07-08 12:44:13.514059405 Z
+  _version: 0.5.0/0.31.1/
+  branch: version-up
+  details: The pull request objectionary/phino#175 has been opened by @github-actions[bot].
+  event_id: 51697495043
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 175
+  repository: 977982682
+  what: pull-was-opened
+  when: 2025-07-04 11:01:04.000000000 Z
+  where: github
+  who: 41898282
+- _id: 64
+  _time: 2025-07-08 12:44:13.534322886 Z
+  _version: 0.5.0/0.31.1/
+  commits: 1
+  contributors: 8086956
+  details: A new release 'Executable binary is not published in GitHub' has been published
+    in objectionary/phino by @rultor.
+  event_id: 51697458693
+  event_type: ReleaseEvent
+  hoc: 2
+  is_human: 0
+  last_commit: 23e03ae479bedd6f41e49023d4470f34a300ec11
+  release: 230007829
+  repository: 977982682
+  tag: 0.0.13
+  what: release-published
+  when: 2025-07-04 11:00:11.000000000 Z
+  where: github
+  who: 8086956
+- _id: 65
+  _time: 2025-07-08 12:44:13.787353807 Z
+  _version: 0.5.0/0.31.1/
+  details: A new tag '0.0.13' has been created in objectionary/phino by @rultor.
+  event_id: 51697440040
+  event_type: CreateEvent
+  is_human: 0
+  repository: 977982682
+  tag: 0.0.13
+  what: tag-was-created
+  when: 2025-07-04 10:59:42.000000000 Z
+  where: github
+  who: 8086956
+- _id: 66
+  _time: 2025-07-08 12:44:14.099263295 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#170/push-binary-to-s3
+  comments: 1
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 2
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/phino#174 has been closed by @maxonfjvipon,
+    with 7 HoC and 1 comments.
+  event_id: 51696990166
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 7
+  is_human: 1
+  issue: 174
+  repository: 977982682
+  succeeded_builds: 13
+  what: pull-was-merged
+  when: 2025-07-04 10:47:34.000000000 Z
+  where: github
+  who: 37025995
+- _id: 67
+  _time: 2025-07-08 12:44:19.401547110 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#170/push-binary-to-s3
+  details: The pull request objectionary/phino#174 has been opened by @maxonfjvipon.
+  event_id: 51696929916
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 174
+  repository: 977982682
+  what: pull-was-opened
+  when: 2025-07-04 10:45:57.000000000 Z
+  where: github
+  who: 37025995
+- _id: 68
+  _time: 2025-07-08 12:44:19.671667806 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#170/push-binary-to-s3
+  comments: 3
+  comments_appreciated: 0
+  comments_by_author: 1
+  comments_by_reviewers: 4
+  comments_resolved: 1
+  comments_to_code: 1
+  details: The pull request objectionary/phino#173 has been closed by @maxonfjvipon,
+    with 51 HoC and 3 comments.
+  event_id: 51696830328
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 51
+  is_human: 1
+  issue: 173
+  repository: 977982682
+  succeeded_builds: 13
+  what: pull-was-merged
+  when: 2025-07-04 10:43:17.000000000 Z
+  where: github
+  who: 37025995
+- _id: 69
+  _time: 2025-07-08 12:44:25.579435003 Z
+  _version: 0.5.0/0.31.1/
+  comments: 5
+  commits: 2
+  details: The pull request objectionary/phino#173 has been reviewed by @yegor256
+    with 51 HoC and 5 comments.
+  event_id: 51696824040
+  event_type: PullRequestReviewEvent
+  files: 1
+  hoc: 51
+  is_human: 1
+  issue: 173
+  repository: 977982682
+  what: pull-was-reviewed
+  when: 2025-07-04 10:43:07.000000000 Z
+  where: github
+  who: 526301
+- _id: 70
+  _time: 2025-07-08 12:44:25.873864797 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#170/push-binary-to-s3
+  details: The pull request objectionary/phino#173 has been opened by @maxonfjvipon.
+  event_id: 51696620028
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 173
+  repository: 977982682
+  what: pull-was-opened
+  when: 2025-07-04 10:37:35.000000000 Z
+  where: github
+  who: 37025995
+- _id: 71
+  _time: 2025-07-08 12:44:25.922337930 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#171/head-and-tail
+  details: The pull request objectionary/phino#172 has been opened by @maxonfjvipon.
+  event_id: 51659578781
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 172
+  repository: 977982682
+  what: pull-was-opened
+  when: 2025-07-03 13:55:10.000000000 Z
+  where: github
+  who: 37025995
+- _id: 72
+  _time: 2025-07-08 12:44:25.943146538 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/phino#171 has been opened by @yegor256.
+  event_id: 51655881577
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 171
+  repository: 977982682
+  what: issue-was-opened
+  when: 2025-07-03 12:39:46.000000000 Z
+  where: github
+  who: 526301
+- _id: 73
+  _time: 2025-07-08 12:44:26.007913602 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/phino#169 has been opened by @maxonfjvipon.
+  event_id: 51559214306
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 169
+  repository: 977982682
+  what: issue-was-opened
+  when: 2025-07-01 13:40:24.000000000 Z
+  where: github
+  who: 37025995
+- _id: 74
+  _time: 2025-07-08 12:44:26.248986509 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/phino#127 has been closed by @maxonfjvipon.
+  event_id: 51559006205
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 127
+  repository: 977982682
+  what: issue-was-closed
+  when: 2025-07-01 13:36:29.000000000 Z
+  where: github
+  who: 37025995
+- _id: 75
+  _time: 2025-07-08 12:44:26.259901538 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#127/comments-in-xmir
+  comments: 1
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 2
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/phino#168 has been closed by @maxonfjvipon,
+    with 113 HoC and 1 comments.
+  event_id: 51559005626
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 113
+  is_human: 1
+  issue: 168
+  repository: 977982682
+  succeeded_builds: 13
+  what: pull-was-merged
+  when: 2025-07-01 13:36:29.000000000 Z
+  where: github
+  who: 37025995
+- _id: 76
+  _time: 2025-07-08 12:44:31.526569712 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#127/comments-in-xmir
+  details: The pull request objectionary/phino#168 has been opened by @maxonfjvipon.
+  event_id: 51558802151
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 168
+  repository: 977982682
+  what: pull-was-opened
+  when: 2025-07-01 13:32:47.000000000 Z
+  where: github
+  who: 37025995
+- _id: 77
+  _time: 2025-07-08 12:44:31.570335126 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/phino#91 has been closed by @rultor.
+  event_id: 51552723732
+  event_type: IssuesEvent
+  is_human: 0
+  issue: 91
+  repository: 977982682
+  what: issue-was-closed
+  when: 2025-07-01 11:28:12.000000000 Z
+  where: github
+  who: 8086956
+- _id: 78
+  _time: 2025-07-08 12:44:31.587965480 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#91/more-expression-in-condition
+  comments: 3
+  comments_appreciated: 1
+  comments_by_author: 1
+  comments_by_reviewers: 4
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/phino#167 has been closed by @rultor, with
+    336 HoC and 3 comments.
+  event_id: 51552723218
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 336
+  is_human: 0
+  issue: 167
+  repository: 977982682
+  succeeded_builds: 13
+  what: pull-was-merged
+  when: 2025-07-01 11:28:11.000000000 Z
+  where: github
+  who: 8086956
+- _id: 79
+  _time: 2025-07-08 12:44:37.744455773 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#91/more-expression-in-condition
+  details: The pull request objectionary/phino#167 has been opened by @maxonfjvipon.
+  event_id: 51551582584
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 167
+  repository: 977982682
+  what: pull-was-opened
+  when: 2025-07-01 11:02:45.000000000 Z
+  where: github
+  who: 37025995
+- _id: 80
+  _time: 2025-07-08 12:44:37.996331716 Z
+  _version: 0.5.0/0.31.1/
+  branch: renovate/crate-ci-typos-1.x
+  comments: 1
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 1
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/phino#166 has been closed by @yegor256, with
+    2 HoC and 1 comments.
+  event_id: 51511923470
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 2
+  is_human: 1
+  issue: 166
+  repository: 977982682
+  succeeded_builds: 13
+  what: pull-was-merged
+  when: 2025-06-30 15:11:49.000000000 Z
+  where: github
+  who: 526301
+- _id: 81
+  _time: 2025-07-08 12:44:43.847419801 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/phino#164 has been closed by @maxonfjvipon.
+  event_id: 51511398933
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 164
+  repository: 977982682
+  what: issue-was-closed
+  when: 2025-06-30 15:01:33.000000000 Z
+  where: github
+  who: 37025995
+- _id: 82
+  _time: 2025-07-08 12:44:44.029471740 Z
+  _version: 0.5.0/0.31.1/
+  branch: renovate/crate-ci-typos-1.x
+  details: The pull request objectionary/phino#166 has been opened by @renovate[bot].
+  event_id: 51511247781
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 166
+  repository: 977982682
+  what: pull-was-opened
+  when: 2025-06-30 14:58:44.000000000 Z
+  where: github
+  who: 29139614
+- _id: 83
+  _time: 2025-07-08 12:44:44.123367527 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/phino#163 has been closed by @rultor.
+  event_id: 51511228398
+  event_type: IssuesEvent
+  is_human: 0
+  issue: 163
+  repository: 977982682
+  what: issue-was-closed
+  when: 2025-06-30 14:58:20.000000000 Z
+  where: github
+  who: 8086956
+- _id: 84
+  _time: 2025-07-08 12:44:44.143503559 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#163/void-rho-in-sweet
+  comments: 4
+  comments_appreciated: 1
+  comments_by_author: 1
+  comments_by_reviewers: 5
+  comments_resolved: 1
+  comments_to_code: 1
+  details: The pull request objectionary/phino#165 has been closed by @rultor, with
+    173 HoC and 4 comments.
+  event_id: 51511227816
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 173
+  is_human: 0
+  issue: 165
+  repository: 977982682
+  succeeded_builds: 13
+  what: pull-was-merged
+  when: 2025-06-30 14:58:20.000000000 Z
+  where: github
+  who: 8086956
+- _id: 85
+  _time: 2025-07-08 12:44:56.265809593 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#163/void-rho-in-sweet
+  details: The pull request objectionary/phino#165 has been opened by @maxonfjvipon.
+  event_id: 51509920692
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 165
+  repository: 977982682
+  what: pull-was-opened
+  when: 2025-06-30 14:32:26.000000000 Z
+  where: github
+  who: 37025995
+- _id: 86
+  _time: 2025-07-08 12:44:56.367618924 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/phino#164 has been opened by @yegor256.
+  event_id: 51493065630
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 164
+  repository: 977982682
+  what: issue-was-opened
+  when: 2025-06-30 08:24:41.000000000 Z
+  where: github
+  who: 526301
+- _id: 87
+  _time: 2025-07-08 12:44:56.388391489 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/phino#163 has been opened by @yegor256.
+  event_id: 51493018322
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 163
+  repository: 977982682
+  what: issue-was-opened
+  when: 2025-06-30 08:23:37.000000000 Z
+  where: github
+  who: 526301
+- _id: 88
+  _time: 2025-07-08 12:44:56.829678681 Z
+  _version: 0.5.0/0.31.1/
+  branch: version-up
+  comments: 1
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 1
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/phino#162 has been closed by @yegor256, with
+    2 HoC and 1 comments.
+  event_id: 51492416914
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 2
+  is_human: 1
+  issue: 162
+  repository: 977982682
+  succeeded_builds: 0
+  what: pull-was-merged
+  when: 2025-06-30 08:09:48.000000000 Z
+  where: github
+  who: 526301
+- _id: 89
+  _time: 2025-07-08 12:44:57.574981362 Z
+  _version: 0.5.0/0.31.1/
+  commits: 1
+  contributors: 8086956
+  details: A new release '--sweet produces broken phi expression' has been published
+    in objectionary/phino by @rultor.
+  event_id: 51455845646
+  event_type: ReleaseEvent
+  hoc: 2
+  is_human: 0
+  last_commit: b7c2844d953a4ef0e20237d141d8e21f9a3ceafa
+  release: 228533769
+  repository: 977982682
+  tag: 0.0.12
+  what: release-published
+  when: 2025-06-28 13:22:11.000000000 Z
+  where: github
+  who: 8086956
+- _id: 90
+  _time: 2025-07-08 12:44:57.873107308 Z
+  _version: 0.5.0/0.31.1/
+  branch: version-up
+  details: The pull request objectionary/phino#162 has been opened by @github-actions[bot].
+  event_id: 51455836690
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 162
+  repository: 977982682
+  what: pull-was-opened
+  when: 2025-06-28 13:21:33.000000000 Z
+  where: github
+  who: 41898282
+- _id: 91
+  _time: 2025-07-08 12:44:58.007194973 Z
+  _version: 0.5.0/0.31.1/
+  details: A new tag '0.0.12' has been created in objectionary/phino by @rultor.
+  event_id: 51455833033
+  event_type: CreateEvent
+  is_human: 0
+  repository: 977982682
+  tag: 0.0.12
+  what: tag-was-created
+  when: 2025-06-28 13:21:18.000000000 Z
+  where: github
+  who: 8086956
+- _id: 92
+  _time: 2025-07-08 12:44:58.049704846 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/phino#147 has been closed by @rultor.
+  event_id: 51455646278
+  event_type: IssuesEvent
+  is_human: 0
+  issue: 147
+  repository: 977982682
+  what: issue-was-closed
+  when: 2025-06-28 13:07:29.000000000 Z
+  where: github
+  who: 8086956
+- _id: 93
+  _time: 2025-07-08 12:44:58.069438488 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#147/sweet-broken-phi
+  comments: 3
+  comments_appreciated: 1
+  comments_by_author: 1
+  comments_by_reviewers: 4
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/phino#161 has been closed by @rultor, with
+    23 HoC and 3 comments.
+  event_id: 51455646150
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 23
+  is_human: 0
+  issue: 161
+  repository: 977982682
+  succeeded_builds: 13
+  what: pull-was-merged
+  when: 2025-06-28 13:07:28.000000000 Z
+  where: github
+  who: 8086956
+- _id: 94
+  _time: 2025-07-08 12:45:22.977343326 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#147/sweet-broken-phi
+  details: The pull request objectionary/phino#161 has been opened by @maxonfjvipon.
+  event_id: 51455405829
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 161
+  repository: 977982682
+  what: pull-was-opened
+  when: 2025-06-28 12:49:37.000000000 Z
+  where: github
+  who: 37025995
+- _id: 95
+  _time: 2025-07-08 12:45:23.002070230 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/phino#140 has been closed by @maxonfjvipon.
+  event_id: 51455171128
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 140
+  repository: 977982682
+  what: issue-was-closed
+  when: 2025-06-28 12:31:49.000000000 Z
+  where: github
+  who: 37025995
+- _id: 96
+  _time: 2025-07-08 12:45:23.257244837 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#140/omit-listing
+  comments: 1
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 2
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/phino#160 has been closed by @maxonfjvipon,
+    with 20 HoC and 1 comments.
+  event_id: 51455170967
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 20
+  is_human: 1
+  issue: 160
+  repository: 977982682
+  succeeded_builds: 13
+  what: pull-was-merged
+  when: 2025-06-28 12:31:48.000000000 Z
+  where: github
+  who: 37025995
+- _id: 97
+  _time: 2025-07-08 12:45:28.677488376 Z
+  _version: 0.5.0/0.31.1/
+  branch: copilot/fix-140
+  comments: 8
+  comments_appreciated: 3
+  comments_by_author: 0
+  comments_by_reviewers: 8
+  comments_resolved: 1
+  comments_to_code: 4
+  details: The pull request objectionary/phino#141 has been closed by @maxonfjvipon,
+    with 33 HoC and 8 comments.
+  event_id: 51454825628
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 33
+  is_human: 1
+  issue: 141
+  repository: 977982682
+  succeeded_builds: 13
+  what: pull-was-closed
+  when: 2025-06-28 12:05:14.000000000 Z
+  where: github
+  who: 37025995
+- _id: 98
+  _time: 2025-07-08 12:45:35.010843708 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#140/omit-listing
+  details: The pull request objectionary/phino#160 has been opened by @maxonfjvipon.
+  event_id: 51454822665
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 160
+  repository: 977982682
+  what: pull-was-opened
+  when: 2025-06-28 12:04:59.000000000 Z
+  where: github
+  who: 37025995
+- _id: 99
+  _time: 2025-07-08 12:45:35.361832535 Z
+  _version: 0.5.0/0.31.1/
+  branch: version-up
+  comments: 1
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 1
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/phino#159 has been closed by @maxonfjvipon,
+    with 2 HoC and 1 comments.
+  event_id: 51454734493
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 2
+  is_human: 1
+  issue: 159
+  repository: 977982682
+  succeeded_builds: 0
+  what: pull-was-merged
+  when: 2025-06-28 11:58:05.000000000 Z
+  where: github
+  who: 37025995
+- _id: 100
+  _time: 2025-07-08 12:45:36.139739601 Z
+  _version: 0.5.0/0.31.1/
+  commits: 1
+  contributors: 8086956
+  details: A new release '--xmir-input' has been published in objectionary/phino by
+    @rultor.
+  event_id: 51454645339
+  event_type: ReleaseEvent
+  hoc: 2
+  is_human: 0
+  last_commit: 4ad3fbcb4af66c8ffa0ded9cf4237ab8c3ef9262
+  release: 228529667
+  repository: 977982682
+  tag: 0.0.11
+  what: release-published
+  when: 2025-06-28 11:50:05.000000000 Z
+  where: github
+  who: 8086956
+- _id: 101
+  _time: 2025-07-08 12:45:36.448939471 Z
+  _version: 0.5.0/0.31.1/
+  branch: version-up
+  details: The pull request objectionary/phino#159 has been opened by @github-actions[bot].
+  event_id: 51454642987
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 159
+  repository: 977982682
+  what: pull-was-opened
+  when: 2025-06-28 11:49:53.000000000 Z
+  where: github
+  who: 41898282
+- _id: 102
+  _time: 2025-07-08 12:45:36.470255729 Z
+  _version: 0.5.0/0.31.1/
+  details: A new tag '0.0.11' has been created in objectionary/phino by @rultor.
+  event_id: 51454640456
+  event_type: CreateEvent
+  is_human: 0
+  repository: 977982682
+  tag: 0.0.11
+  what: tag-was-created
+  when: 2025-06-28 11:49:38.000000000 Z
+  where: github
+  who: 8086956
+- _id: 103
+  _time: 2025-07-08 12:45:36.510889539 Z
+  _version: 0.5.0/0.31.1/
+  branch: renovate/codecov-codecov-action-5.x
+  comments: 1
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 1
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/phino#144 has been closed by @renovate[bot],
+    with 2 HoC and 1 comments.
+  event_id: 51454509086
   event_type: PullRequestEvent
   failed_builds: 1
   hoc: 2
-  is_human: 1
-  issue: 4344
-  repository: 73056727
-  succeeded_builds: 22
+  is_human: 0
+  issue: 144
+  repository: 977982682
+  succeeded_builds: 13
+  what: pull-was-closed
+  when: 2025-06-28 11:37:41.000000000 Z
+  where: github
+  who: 29139614
+- _id: 104
+  _time: 2025-07-08 12:45:42.270076285 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/phino#116 has been closed by @rultor.
+  event_id: 51454505071
+  event_type: IssuesEvent
+  is_human: 0
+  issue: 116
+  repository: 977982682
+  what: issue-was-closed
+  when: 2025-06-28 11:37:20.000000000 Z
+  where: github
+  who: 8086956
+- _id: 105
+  _time: 2025-07-08 12:45:42.284547117 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/phino#156 has been closed by @rultor.
+  event_id: 51454505022
+  event_type: IssuesEvent
+  is_human: 0
+  issue: 156
+  repository: 977982682
+  what: issue-was-closed
+  when: 2025-06-28 11:37:19.000000000 Z
+  where: github
+  who: 8086956
+- _id: 106
+  _time: 2025-07-08 12:45:42.306834221 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#156/parse-xmir-with-package
+  comments: 3
+  comments_appreciated: 1
+  comments_by_author: 1
+  comments_by_reviewers: 4
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/phino#158 has been closed by @rultor, with
+    146 HoC and 3 comments.
+  event_id: 51454504904
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 146
+  is_human: 0
+  issue: 158
+  repository: 977982682
+  succeeded_builds: 13
   what: pull-was-merged
-  when: 2025-07-06 05:51:09.000000000 Z
+  when: 2025-06-28 11:37:19.000000000 Z
+  where: github
+  who: 8086956
+- _id: 107
+  _time: 2025-07-08 12:45:53.964375373 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#156/parse-xmir-with-package
+  details: The pull request objectionary/phino#158 has been opened by @maxonfjvipon.
+  event_id: 51454291979
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 158
+  repository: 977982682
+  what: pull-was-opened
+  when: 2025-06-28 11:19:06.000000000 Z
+  where: github
+  who: 37025995
+- _id: 108
+  _time: 2025-07-08 12:45:53.995016931 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/phino#145 has been closed by @maxonfjvipon.
+  event_id: 51454226539
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 145
+  repository: 977982682
+  what: issue-was-closed
+  when: 2025-06-28 11:13:22.000000000 Z
+  where: github
+  who: 37025995
+- _id: 109
+  _time: 2025-07-08 12:45:54.120931141 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/phino#157 has been opened by @0pdd.
+  event_id: 51444241701
+  event_type: IssuesEvent
+  is_human: 0
+  issue: 157
+  repository: 977982682
+  what: issue-was-opened
+  when: 2025-06-27 21:44:09.000000000 Z
+  where: github
+  who: 24456188
+- _id: 110
+  _time: 2025-07-08 12:45:54.148798174 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/phino#156 has been opened by @0pdd.
+  event_id: 51444240934
+  event_type: IssuesEvent
+  is_human: 0
+  issue: 156
+  repository: 977982682
+  what: issue-was-opened
+  when: 2025-06-27 21:44:07.000000000 Z
+  where: github
+  who: 24456188
+- _id: 111
+  _time: 2025-07-08 12:45:54.162478830 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/phino#155 has been opened by @0pdd.
+  event_id: 51444240599
+  event_type: IssuesEvent
+  is_human: 0
+  issue: 155
+  repository: 977982682
+  what: issue-was-opened
+  when: 2025-06-27 21:44:06.000000000 Z
+  where: github
+  who: 24456188
+- _id: 112
+  _time: 2025-07-08 12:45:54.200834529 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/phino#131 has been closed by @0pdd.
+  event_id: 51444239515
+  event_type: IssuesEvent
+  is_human: 0
+  issue: 131
+  repository: 977982682
+  what: issue-was-closed
+  when: 2025-06-27 21:44:03.000000000 Z
+  where: github
+  who: 24456188
+- _id: 113
+  _time: 2025-07-08 12:45:54.223620320 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#116/xmir-as-input
+  comments: 14
+  comments_appreciated: 1
+  comments_by_author: 1
+  comments_by_reviewers: 15
+  comments_resolved: 11
+  comments_to_code: 11
+  details: The pull request objectionary/phino#154 has been closed by @rultor, with
+    720 HoC and 14 comments.
+  event_id: 51444238607
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 720
+  is_human: 0
+  issue: 154
+  repository: 977982682
+  succeeded_builds: 14
+  what: pull-was-merged
+  when: 2025-06-27 21:44:00.000000000 Z
+  where: github
+  who: 8086956
+- _id: 114
+  _time: 2025-07-08 12:46:13.606818278 Z
+  _version: 0.5.0/0.31.1/
+  branch: bug/#116/xmir-as-input
+  details: The pull request objectionary/phino#154 has been opened by @maxonfjvipon.
+  event_id: 51443405867
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 154
+  repository: 977982682
+  what: pull-was-opened
+  when: 2025-06-27 21:08:49.000000000 Z
+  where: github
+  who: 37025995
+- _id: 115
+  _time: 2025-07-08 12:46:13.664084383 Z
+  _version: 0.5.0/0.31.1/
+  branch: copilot/fix-145
+  comments: 2
+  comments_appreciated: 1
+  comments_by_author: 0
+  comments_by_reviewers: 2
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/phino#146 has been closed by @yegor256, with
+    0 HoC and 2 comments.
+  event_id: 51383811230
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 0
+  is_human: 1
+  issue: 146
+  repository: 977982682
+  succeeded_builds: 14
+  what: pull-was-closed
+  when: 2025-06-26 14:53:30.000000000 Z
   where: github
   who: 526301
-- _id: 65
-  _time: 2025-07-08 11:22:18.323391329 Z
+- _id: 116
+  _time: 2025-07-08 12:46:19.912359717 Z
   _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 731438612
-  what: labels-were-scanned
-  where: github
-- _id: 66
-  _time: 2025-07-08 11:22:18.328571786 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 519246071
-  what: labels-were-scanned
-  where: github
-- _id: 67
-  _time: 2025-07-08 11:22:18.333672113 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 551486781
-  what: labels-were-scanned
-  where: github
-- _id: 68
-  _time: 2025-07-08 11:22:18.338871695 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 970961472
-  what: labels-were-scanned
-  where: github
-- _id: 69
-  _time: 2025-07-08 11:22:18.344142862 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 624420387
-  what: labels-were-scanned
-  where: github
-- _id: 70
-  _time: 2025-07-08 11:22:18.349667593 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 519299365
-  what: labels-were-scanned
-  where: github
-- _id: 71
-  _time: 2025-07-08 11:22:18.355114619 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 386420319
-  what: labels-were-scanned
-  where: github
-- _id: 72
-  _time: 2025-07-08 11:22:18.360597201 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 510102039
-  what: labels-were-scanned
-  where: github
-- _id: 73
-  _time: 2025-07-08 11:22:18.366202222 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 482612876
-  what: labels-were-scanned
-  where: github
-- _id: 74
-  _time: 2025-07-08 11:22:18.379002441 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 490157985
-  what: labels-were-scanned
-  where: github
-- _id: 75
-  _time: 2025-07-08 11:22:18.391179344 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 510082372
-  what: labels-were-scanned
-  where: github
-- _id: 76
-  _time: 2025-07-08 11:22:18.402611583 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 840332960
-  what: labels-were-scanned
-  where: github
-- _id: 77
-  _time: 2025-07-08 11:22:18.411528183 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 798766850
-  what: labels-were-scanned
-  where: github
-- _id: 78
-  _time: 2025-07-08 11:22:18.420265467 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 531151981
-  what: labels-were-scanned
-  where: github
-- _id: 79
-  _time: 2025-07-08 11:22:18.429527353 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 574534248
-  what: labels-were-scanned
-  where: github
-- _id: 80
-  _time: 2025-07-08 11:22:18.438266842 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 543969974
-  what: labels-were-scanned
-  where: github
-- _id: 81
-  _time: 2025-07-08 11:22:18.446915460 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 565789755
-  what: labels-were-scanned
-  where: github
-- _id: 82
-  _time: 2025-07-08 11:22:18.454415358 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 721146770
-  what: labels-were-scanned
-  where: github
-- _id: 83
-  _time: 2025-07-08 11:22:18.461397467 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 489321585
-  what: labels-were-scanned
-  where: github
-- _id: 84
-  _time: 2025-07-08 11:22:18.468342978 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 490221501
-  what: labels-were-scanned
-  where: github
-- _id: 85
-  _time: 2025-07-08 11:22:18.475698776 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 447446664
-  what: labels-were-scanned
-  where: github
-- _id: 86
-  _time: 2025-07-08 11:22:18.482994443 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 501942888
-  what: labels-were-scanned
-  where: github
-- _id: 87
-  _time: 2025-07-08 11:22:18.490532372 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 731516758
-  what: labels-were-scanned
-  where: github
-- _id: 88
-  _time: 2025-07-08 11:22:18.498381124 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
+  details: The issue objectionary/phino#148 has been opened by @yegor256.
+  event_id: 51382216417
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 148
   repository: 977982682
-  what: labels-were-scanned
+  what: issue-was-opened
+  when: 2025-06-26 14:22:13.000000000 Z
   where: github
-- _id: 89
-  _time: 2025-07-08 11:22:18.507970834 Z
+  who: 526301
+- _id: 117
+  _time: 2025-07-08 12:46:19.981999361 Z
   _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 671896902
-  what: labels-were-scanned
+  details: The issue objectionary/phino#147 has been opened by @yegor256.
+  event_id: 51376189682
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 147
+  repository: 977982682
+  what: issue-was-opened
+  when: 2025-06-26 12:20:12.000000000 Z
   where: github
-- _id: 90
-  _time: 2025-07-08 11:22:18.517638239 Z
+  who: 526301
+- _id: 118
+  _time: 2025-07-08 12:46:19.995106872 Z
+  _version: 0.5.0/0.31.1/
+  latest: 51789728471
+  repository: 977982682
+  what: events-were-scanned
+  where: github
+- _id: 119
+  _time: 2025-07-08 12:46:31.187511041 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 955159947
   what: labels-were-scanned
   where: github
-- _id: 91
-  _time: 2025-07-08 11:22:18.527844804 Z
+- _id: 120
+  _time: 2025-07-08 12:46:31.198421039 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 493235807
+  repository: 531151981
   what: labels-were-scanned
   where: github
-- _id: 92
-  _time: 2025-07-08 11:22:18.535230289 Z
+- _id: 121
+  _time: 2025-07-08 12:46:31.208805349 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 501259435
+  repository: 482612876
   what: labels-were-scanned
   where: github
-- _id: 93
-  _time: 2025-07-08 11:22:18.542522077 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 574459304
-  what: labels-were-scanned
-  where: github
-- _id: 94
-  _time: 2025-07-08 11:22:18.549774122 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 396732517
-  what: labels-were-scanned
-  where: github
-- _id: 96
-  _time: 2025-07-08 11:22:18.990105669 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 13623548
-  what: labels-were-scanned
-  where: github
-- _id: 97
-  _time: 2025-07-08 11:22:18.997778110 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 559427983
-  what: labels-were-scanned
-  where: github
-- _id: 98
-  _time: 2025-07-08 11:22:19.008807915 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 568705267
-  what: labels-were-scanned
-  where: github
-- _id: 99
-  _time: 2025-07-08 11:22:19.021710497 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 546194972
-  what: labels-were-scanned
-  where: github
-- _id: 100
-  _time: 2025-07-08 11:22:19.032173301 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 889819508
-  what: labels-were-scanned
-  where: github
-- _id: 101
-  _time: 2025-07-08 11:22:19.041283023 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 483303722
-  what: labels-were-scanned
-  where: github
-- _id: 102
-  _time: 2025-07-08 11:22:19.050092633 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 570457023
-  what: labels-were-scanned
-  where: github
-- _id: 103
-  _time: 2025-07-08 11:22:19.059482840 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 784310467
-  what: labels-were-scanned
-  where: github
-- _id: 104
-  _time: 2025-07-08 11:22:19.068981489 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 492899189
-  what: labels-were-scanned
-  where: github
-- _id: 105
-  _time: 2025-07-08 11:22:19.078871371 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 499536612
-  what: labels-were-scanned
-  where: github
-- _id: 106
-  _time: 2025-07-08 11:22:19.088103823 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 558766137
-  what: labels-were-scanned
-  where: github
-- _id: 107
-  _time: 2025-07-08 11:22:19.097452001 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 490258619
-  what: labels-were-scanned
-  where: github
-- _id: 108
-  _time: 2025-07-08 11:22:19.107150435 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 403396472
-  what: labels-were-scanned
-  where: github
-- _id: 109
-  _time: 2025-07-08 11:22:19.116980585 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 733919301
-  what: labels-were-scanned
-  where: github
-- _id: 110
-  _time: 2025-07-08 11:22:19.126840511 Z
+- _id: 122
+  _time: 2025-07-08 12:46:31.225186541 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 73056727
   what: labels-were-scanned
   where: github
-- _id: 111
-  _time: 2025-07-08 11:23:58.562151086 Z
+- _id: 123
+  _time: 2025-07-08 12:46:31.234417373 Z
   _version: 0.5.0/0.31.1/
-  average_release_commits_size: 14.333333333333334
-  average_release_hoc_size: 2561.5757575757575
-  average_triage_time: 0
-  since: 2025-06-10 11:22:19.136084714 Z
+  latest: 0
+  repository: 489321585
+  what: labels-were-scanned
+  where: github
+- _id: 124
+  _time: 2025-07-08 12:46:31.243765084 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 543969974
+  what: labels-were-scanned
+  where: github
+- _id: 125
+  _time: 2025-07-08 12:46:31.253304947 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 671896902
+  what: labels-were-scanned
+  where: github
+- _id: 126
+  _time: 2025-07-08 12:46:31.262929058 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 721146770
+  what: labels-were-scanned
+  where: github
+- _id: 127
+  _time: 2025-07-08 12:46:31.272575631 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 490258619
+  what: labels-were-scanned
+  where: github
+- _id: 128
+  _time: 2025-07-08 12:46:31.282352649 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 731516758
+  what: labels-were-scanned
+  where: github
+- _id: 129
+  _time: 2025-07-08 12:46:31.292221841 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 546194972
+  what: labels-were-scanned
+  where: github
+- _id: 130
+  _time: 2025-07-08 12:46:31.302332426 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 493235807
+  what: labels-were-scanned
+  where: github
+- _id: 131
+  _time: 2025-07-08 12:46:31.312471064 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 501942888
+  what: labels-were-scanned
+  where: github
+- _id: 132
+  _time: 2025-07-08 12:46:31.322831679 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 499536612
+  what: labels-were-scanned
+  where: github
+- _id: 133
+  _time: 2025-07-08 12:46:31.333221920 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 574459304
+  what: labels-were-scanned
+  where: github
+- _id: 134
+  _time: 2025-07-08 12:46:31.343835561 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 519299365
+  what: labels-were-scanned
+  where: github
+- _id: 135
+  _time: 2025-07-08 12:46:31.771315420 Z
+  _version: 0.5.0/0.31.1/
+  details: The '#bug' label was attached by @maxonfjvipon to the issue objectionary/phino#147.
+  issue: 147
+  label: bug
+  repository: 977982682
+  what: label-was-attached
+  when: 2025-06-28 09:47:53.000000000 Z
+  where: github
+  who: 37025995
+- _id: 137
+  _time: 2025-07-08 12:46:31.801075863 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 519246071
+  what: labels-were-scanned
+  where: github
+- _id: 138
+  _time: 2025-07-08 12:46:31.820322002 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 840332960
+  what: labels-were-scanned
+  where: github
+- _id: 139
+  _time: 2025-07-08 12:46:31.836393673 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 396732517
+  what: labels-were-scanned
+  where: github
+- _id: 140
+  _time: 2025-07-08 12:46:31.851300795 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 559427983
+  what: labels-were-scanned
+  where: github
+- _id: 141
+  _time: 2025-07-08 12:46:31.864271947 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 568705267
+  what: labels-were-scanned
+  where: github
+- _id: 142
+  _time: 2025-07-08 12:46:31.877029408 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 889819508
+  what: labels-were-scanned
+  where: github
+- _id: 143
+  _time: 2025-07-08 12:46:31.889925760 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 447446664
+  what: labels-were-scanned
+  where: github
+- _id: 144
+  _time: 2025-07-08 12:46:31.902443189 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 624420387
+  what: labels-were-scanned
+  where: github
+- _id: 145
+  _time: 2025-07-08 12:46:31.915386830 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 490221501
+  what: labels-were-scanned
+  where: github
+- _id: 146
+  _time: 2025-07-08 12:46:31.928750390 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 386420319
+  what: labels-were-scanned
+  where: github
+- _id: 147
+  _time: 2025-07-08 12:46:31.942163363 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 784310467
+  what: labels-were-scanned
+  where: github
+- _id: 148
+  _time: 2025-07-08 12:46:31.955520030 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 510102039
+  what: labels-were-scanned
+  where: github
+- _id: 149
+  _time: 2025-07-08 12:46:31.968800053 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 483303722
+  what: labels-were-scanned
+  where: github
+- _id: 150
+  _time: 2025-07-08 12:46:31.981075758 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 510082372
+  what: labels-were-scanned
+  where: github
+- _id: 151
+  _time: 2025-07-08 12:46:31.994445530 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 731438612
+  what: labels-were-scanned
+  where: github
+- _id: 152
+  _time: 2025-07-08 12:46:32.008135574 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 403396472
+  what: labels-were-scanned
+  where: github
+- _id: 153
+  _time: 2025-07-08 12:46:32.021100424 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 551486781
+  what: labels-were-scanned
+  where: github
+- _id: 154
+  _time: 2025-07-08 12:46:32.034040318 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 558766137
+  what: labels-were-scanned
+  where: github
+- _id: 155
+  _time: 2025-07-08 12:46:32.047382358 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 565789755
+  what: labels-were-scanned
+  where: github
+- _id: 156
+  _time: 2025-07-08 12:46:32.067640037 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 492899189
+  what: labels-were-scanned
+  where: github
+- _id: 157
+  _time: 2025-07-08 12:46:32.084000390 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 574534248
+  what: labels-were-scanned
+  where: github
+- _id: 158
+  _time: 2025-07-08 12:46:32.098759433 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 13623548
+  what: labels-were-scanned
+  where: github
+- _id: 159
+  _time: 2025-07-08 12:46:32.113280990 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 570457023
+  what: labels-were-scanned
+  where: github
+- _id: 160
+  _time: 2025-07-08 12:46:32.128482495 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 970961472
+  what: labels-were-scanned
+  where: github
+- _id: 161
+  _time: 2025-07-08 12:46:32.144136982 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 490157985
+  what: labels-were-scanned
+  where: github
+- _id: 162
+  _time: 2025-07-08 12:46:32.159176842 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 501259435
+  what: labels-were-scanned
+  where: github
+- _id: 163
+  _time: 2025-07-08 12:46:32.174728706 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 733919301
+  what: labels-were-scanned
+  where: github
+- _id: 164
+  _time: 2025-07-08 12:46:32.190251535 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 798766850
+  what: labels-were-scanned
+  where: github
+- _id: 165
+  _time: 2025-07-08 12:46:32.445670864 Z
+  _version: 0.5.0/0.31.1/
+  details: The '#bug' label was attached by @yegor256 to the issue objectionary/phino#148.
+  issue: 148
+  label: bug
+  repository: 977982682
+  what: label-was-attached
+  when: 2025-06-26 14:22:06.000000000 Z
+  where: github
+  who: 526301
+- _id: 166
+  _time: 2025-07-08 12:46:32.458597353 Z
+  _version: 0.5.0/0.31.1/
+  details: The '#enhancement' label was attached by @yegor256 to the issue objectionary/phino#148.
+  issue: 148
+  label: enhancement
+  repository: 977982682
+  what: label-was-attached
+  when: 2025-06-26 14:22:07.000000000 Z
+  where: github
+  who: 526301
+- _id: 167
+  _time: 2025-07-08 12:46:32.780133881 Z
+  _version: 0.5.0/0.31.1/
+  details: The '#bug' label was attached by @0pdd to the issue objectionary/phino#155.
+  issue: 155
+  label: bug
+  repository: 977982682
+  what: label-was-attached
+  when: 2025-06-27 21:44:05.000000000 Z
+  where: github
+  who: 24456188
+- _id: 168
+  _time: 2025-07-08 12:46:33.101899224 Z
+  _version: 0.5.0/0.31.1/
+  details: The '#bug' label was attached by @0pdd to the issue objectionary/phino#156.
+  issue: 156
+  label: bug
+  repository: 977982682
+  what: label-was-attached
+  when: 2025-06-27 21:44:06.000000000 Z
+  where: github
+  who: 24456188
+- _id: 169
+  _time: 2025-07-08 12:46:33.472335969 Z
+  _version: 0.5.0/0.31.1/
+  details: The '#bug' label was attached by @0pdd to the issue objectionary/phino#157.
+  issue: 157
+  label: bug
+  repository: 977982682
+  what: label-was-attached
+  when: 2025-06-27 21:44:08.000000000 Z
+  where: github
+  who: 24456188
+- _id: 170
+  _time: 2025-07-08 12:46:34.139340189 Z
+  _version: 0.5.0/0.31.1/
+  details: The '#bug' label was attached by @maxonfjvipon to the issue objectionary/phino#164.
+  issue: 164
+  label: bug
+  repository: 977982682
+  what: label-was-attached
+  when: 2025-06-30 10:28:10.000000000 Z
+  where: github
+  who: 37025995
+- _id: 171
+  _time: 2025-07-08 12:46:34.487318579 Z
+  _version: 0.5.0/0.31.1/
+  details: The '#bug' label was attached by @maxonfjvipon to the issue objectionary/phino#169.
+  issue: 169
+  label: bug
+  repository: 977982682
+  what: label-was-attached
+  when: 2025-07-01 13:40:24.000000000 Z
+  where: github
+  who: 37025995
+- _id: 172
+  _time: 2025-07-08 12:46:35.205068784 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 977982682
+  what: labels-were-scanned
+  where: github
+- _id: 173
+  _time: 2025-07-08 12:49:06.721322125 Z
+  _version: 0.5.0/0.31.1/
+  average_issue_lifetime: 2222338.698924731
+  average_pull_lifetime: 2398917.204204204
+  since: 2025-06-10 12:46:35.218328599 Z
   what: quality-of-service
-  when: 2025-07-08 11:22:19.136059518 Z
-- _id: 112
-  _time: 2025-07-08 11:25:19.141073985 Z
+  when: 2025-07-08 12:46:35.218304604 Z
+- _id: 174
+  _time: 2025-07-08 12:49:06.741416808 Z
   _version: 0.5.0/0.31.1/
-  since: 2025-06-10 11:25:19.141434580 Z
+  since: 2025-06-10 12:49:06.741819357 Z
   what: quantity-of-deliverables
-  when: 2025-07-08 11:25:19.141408261 Z
+  when: 2025-07-08 12:49:06.741780063 Z
