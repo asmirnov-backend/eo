@@ -1,701 +1,1085 @@
 ---
 - added: 8
   cycles: 1
-  error: 'GET https://api.github.com/repos/objectionary/sodg.rs/actions/jobs/51120282800:
-    502 - Server Error'
   removed: 8
-  seconds: 564.275838698
+  seconds: 763.225349459
   version: 0.31.1
   what: judges-summary
-  when: 2025-10-04 20:27:40.590360336 Z
+  when: 2025-10-04 21:27:48.037677099 Z
 - _id: 1
-  _time: 2025-10-04 20:20:55.050685645 Z
+  _time: 2025-10-04 21:16:54.383029674 Z
   _version: 0.5.0/0.31.1/
-  total_active_contributors: 15
+  total_commits: 46791
   total_contributors: 476
+  total_files: 14118
   total_forks: 341
   total_issues: 4143
-  total_pulls: 7000
+  total_pulls: 7003
   total_releases: 768
   total_repositories: 38
   total_stars: 1661
   what: dimensions-of-terrain
-  when: 2025-10-04 20:18:16.647417512 Z
+  when: 2025-10-04 21:15:05.061010749 Z
 - _id: 2
-  _time: 2025-10-04 20:21:16.497800149 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 489321585
-  what: min-issue-was-found
-  where: github
-- _id: 3
-  _time: 2025-10-04 20:21:16.500484805 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 721146770
-  what: min-issue-was-found
-  where: github
-- _id: 4
-  _time: 2025-10-04 20:21:16.503170033 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 970961472
-  what: min-issue-was-found
-  where: github
-- _id: 5
-  _time: 2025-10-04 20:21:16.510187986 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 568705267
-  what: min-issue-was-found
-  where: github
-- _id: 6
-  _time: 2025-10-04 20:21:16.515115613 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 889819508
-  what: min-issue-was-found
-  where: github
-- _id: 7
-  _time: 2025-10-04 20:21:16.520213148 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 570457023
-  what: min-issue-was-found
-  where: github
-- _id: 8
-  _time: 2025-10-04 20:21:16.524118916 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 731516758
-  what: min-issue-was-found
-  where: github
-- _id: 9
-  _time: 2025-10-04 20:21:16.527765891 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 501259435
-  what: min-issue-was-found
-  where: github
-- _id: 10
-  _time: 2025-10-04 20:21:16.531210667 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 493235807
-  what: min-issue-was-found
-  where: github
-- _id: 11
-  _time: 2025-10-04 20:21:16.534790035 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 551486781
-  what: min-issue-was-found
-  where: github
-- _id: 12
-  _time: 2025-10-04 20:21:16.538510788 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 955159947
-  what: min-issue-was-found
-  where: github
-- _id: 13
-  _time: 2025-10-04 20:21:16.542067764 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 510082372
-  what: min-issue-was-found
-  where: github
-- _id: 14
-  _time: 2025-10-04 20:21:16.545797884 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 840332960
-  what: min-issue-was-found
-  where: github
-- _id: 15
-  _time: 2025-10-04 20:21:16.549518356 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 784310467
-  what: min-issue-was-found
-  where: github
-- _id: 16
-  _time: 2025-10-04 20:21:16.553556461 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 519299365
-  what: min-issue-was-found
-  where: github
-- _id: 17
-  _time: 2025-10-04 20:21:16.557325673 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 490221501
-  what: min-issue-was-found
-  where: github
-- _id: 18
-  _time: 2025-10-04 20:21:16.562870454 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 1037933692
-  what: min-issue-was-found
-  where: github
-- _id: 19
-  _time: 2025-10-04 20:21:16.567005230 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 733919301
-  what: min-issue-was-found
-  where: github
-- _id: 20
-  _time: 2025-10-04 20:21:16.570985978 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 490157985
-  what: min-issue-was-found
-  where: github
-- _id: 21
-  _time: 2025-10-04 20:21:16.574394577 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 73056727
-  what: min-issue-was-found
-  where: github
-- _id: 22
-  _time: 2025-10-04 20:21:16.577909625 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 447446664
-  what: min-issue-was-found
-  where: github
-- _id: 23
-  _time: 2025-10-04 20:21:16.581467643 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 574534248
-  what: min-issue-was-found
-  where: github
-- _id: 24
-  _time: 2025-10-04 20:21:16.585060076 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 519246071
-  what: min-issue-was-found
-  where: github
-- _id: 25
-  _time: 2025-10-04 20:21:16.588690058 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 482612876
-  what: min-issue-was-found
-  where: github
-- _id: 26
-  _time: 2025-10-04 20:21:16.592439835 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 574459304
-  what: min-issue-was-found
-  where: github
-- _id: 27
-  _time: 2025-10-04 20:21:16.596493750 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 546194972
-  what: min-issue-was-found
-  where: github
-- _id: 28
-  _time: 2025-10-04 20:21:16.604417866 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 492899189
-  what: min-issue-was-found
-  where: github
-- _id: 29
-  _time: 2025-10-04 20:21:16.611646433 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 552394123
-  what: min-issue-was-found
-  where: github
-- _id: 30
-  _time: 2025-10-04 20:21:16.616145800 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 798766850
-  what: min-issue-was-found
-  where: github
-- _id: 31
-  _time: 2025-10-04 20:21:16.620942863 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 13623548
-  what: min-issue-was-found
-  where: github
-- _id: 32
-  _time: 2025-10-04 20:21:16.627218900 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 1049128198
-  what: min-issue-was-found
-  where: github
-- _id: 33
-  _time: 2025-10-04 20:21:16.632018939 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 501942888
-  what: min-issue-was-found
-  where: github
-- _id: 34
-  _time: 2025-10-04 20:21:16.637031976 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 671896902
-  what: min-issue-was-found
-  where: github
-- _id: 35
-  _time: 2025-10-04 20:21:16.641752597 Z
+  _time: 2025-10-04 21:18:25.082654632 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 499536612
   what: min-issue-was-found
   where: github
-- _id: 36
-  _time: 2025-10-04 20:21:16.647044034 Z
+- _id: 3
+  _time: 2025-10-04 21:18:25.086141141 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 13623548
+  what: min-issue-was-found
+  where: github
+- _id: 4
+  _time: 2025-10-04 21:18:25.091636943 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 1037933692
+  what: min-issue-was-found
+  where: github
+- _id: 5
+  _time: 2025-10-04 21:18:25.094886739 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 490157985
+  what: min-issue-was-found
+  where: github
+- _id: 6
+  _time: 2025-10-04 21:18:25.098171054 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 396732517
+  what: min-issue-was-found
+  where: github
+- _id: 7
+  _time: 2025-10-04 21:18:25.101785360 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 546194972
+  what: min-issue-was-found
+  where: github
+- _id: 8
+  _time: 2025-10-04 21:18:25.104924973 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 490221501
+  what: min-issue-was-found
+  where: github
+- _id: 9
+  _time: 2025-10-04 21:18:25.108448533 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 519246071
+  what: min-issue-was-found
+  where: github
+- _id: 10
+  _time: 2025-10-04 21:18:25.111454668 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 721146770
+  what: min-issue-was-found
+  where: github
+- _id: 11
+  _time: 2025-10-04 21:18:25.114358804 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 840332960
+  what: min-issue-was-found
+  where: github
+- _id: 12
+  _time: 2025-10-04 21:18:25.117333477 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 552394123
+  what: min-issue-was-found
+  where: github
+- _id: 13
+  _time: 2025-10-04 21:18:25.120379985 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 73056727
+  what: min-issue-was-found
+  where: github
+- _id: 14
+  _time: 2025-10-04 21:18:25.129655838 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 510082372
+  what: min-issue-was-found
+  where: github
+- _id: 15
+  _time: 2025-10-04 21:18:25.132600174 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 543969974
   what: min-issue-was-found
   where: github
-- _id: 37
-  _time: 2025-10-04 20:21:16.652045990 Z
+- _id: 16
+  _time: 2025-10-04 21:18:25.135530867 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 568705267
+  what: min-issue-was-found
+  where: github
+- _id: 17
+  _time: 2025-10-04 21:18:25.138505204 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 977982682
   what: min-issue-was-found
   where: github
-- _id: 38
-  _time: 2025-10-04 20:21:16.656693103 Z
+- _id: 18
+  _time: 2025-10-04 21:18:25.141544961 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 396732517
+  repository: 889819508
   what: min-issue-was-found
   where: github
-- _id: 39
-  _time: 2025-10-04 20:21:16.661051878 Z
+- _id: 19
+  _time: 2025-10-04 21:18:25.144673000 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 570457023
+  what: min-issue-was-found
+  where: github
+- _id: 20
+  _time: 2025-10-04 21:18:25.147858246 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 482612876
+  what: min-issue-was-found
+  where: github
+- _id: 21
+  _time: 2025-10-04 21:18:25.151106751 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 493235807
+  what: min-issue-was-found
+  where: github
+- _id: 22
+  _time: 2025-10-04 21:18:25.154430126 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 551486781
+  what: min-issue-was-found
+  where: github
+- _id: 23
+  _time: 2025-10-04 21:18:25.169275149 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 574459304
+  what: min-issue-was-found
+  where: github
+- _id: 24
+  _time: 2025-10-04 21:18:25.176414767 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 798766850
+  what: min-issue-was-found
+  where: github
+- _id: 25
+  _time: 2025-10-04 21:18:25.183387373 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 501942888
+  what: min-issue-was-found
+  where: github
+- _id: 26
+  _time: 2025-10-04 21:18:25.187804849 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 501259435
+  what: min-issue-was-found
+  where: github
+- _id: 27
+  _time: 2025-10-04 21:18:25.192045721 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 574534248
+  what: min-issue-was-found
+  where: github
+- _id: 28
+  _time: 2025-10-04 21:18:25.196354224 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 519299365
+  what: min-issue-was-found
+  where: github
+- _id: 29
+  _time: 2025-10-04 21:18:25.200425934 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 447446664
+  what: min-issue-was-found
+  where: github
+- _id: 30
+  _time: 2025-10-04 21:18:25.204719554 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 970961472
+  what: min-issue-was-found
+  where: github
+- _id: 31
+  _time: 2025-10-04 21:18:25.210601011 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 1049128198
+  what: min-issue-was-found
+  where: github
+- _id: 32
+  _time: 2025-10-04 21:18:25.214865639 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 671896902
+  what: min-issue-was-found
+  where: github
+- _id: 33
+  _time: 2025-10-04 21:18:25.219346896 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 492899189
+  what: min-issue-was-found
+  where: github
+- _id: 34
+  _time: 2025-10-04 21:18:25.223543719 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 955159947
+  what: min-issue-was-found
+  where: github
+- _id: 35
+  _time: 2025-10-04 21:18:25.227548256 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 531151981
   what: min-issue-was-found
   where: github
-- _id: 40
-  _time: 2025-10-04 20:21:17.309548603 Z
+- _id: 36
+  _time: 2025-10-04 21:18:25.231673919 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 490157985
-  what: events-were-scanned
+  repository: 784310467
+  what: min-issue-was-found
   where: github
-- _id: 41
-  _time: 2025-10-04 20:21:18.189558635 Z
+- _id: 37
+  _time: 2025-10-04 21:18:25.235802509 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 733919301
+  what: min-issue-was-found
+  where: github
+- _id: 38
+  _time: 2025-10-04 21:18:25.239952893 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 489321585
+  what: min-issue-was-found
+  where: github
+- _id: 39
+  _time: 2025-10-04 21:18:25.244130987 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 731516758
+  what: min-issue-was-found
+  where: github
+- _id: 40
+  _time: 2025-10-04 21:18:26.414823635 Z
   _version: 0.5.0/0.31.1/
   latest: 55205189131
   repository: 447446664
   what: events-were-scanned
   where: github
-- _id: 42
-  _time: 2025-10-04 20:21:18.806899182 Z
+- _id: 41
+  _time: 2025-10-04 21:18:29.113035855 Z
   _version: 0.5.0/0.31.1/
-  latest: 55200846986
-  repository: 519299365
-  what: events-were-scanned
-  where: github
-- _id: 43
-  _time: 2025-10-04 20:21:19.737913397 Z
-  _version: 0.5.0/0.31.1/
-  branch: '232'
-  details: The pull request objectionary/sodg.rs#237 has been opened by @RAprogramm.
-  event_id: 55308463704
-  event_type: PullRequestEvent
-  is_human: 1
-  issue: 237
-  repository: 543969974
-  what: pull-was-opened
-  when: 2025-09-28 14:12:47.000000000 Z
-  where: github
-  who: 70325462
-- _id: 44
-  _time: 2025-10-04 20:21:20.143798388 Z
-  _version: 0.5.0/0.31.1/
-  branch: '235'
-  details: The pull request objectionary/sodg.rs#236 has been opened by @RAprogramm.
-  event_id: 55298587072
-  event_type: PullRequestEvent
-  is_human: 1
-  issue: 236
-  repository: 543969974
-  what: pull-was-opened
-  when: 2025-09-28 03:01:41.000000000 Z
-  where: github
-  who: 70325462
-- _id: 45
-  _time: 2025-10-04 20:21:20.152222097 Z
-  _version: 0.5.0/0.31.1/
-  details: The issue objectionary/sodg.rs#235 has been opened by @RAprogramm.
-  event_id: 55298028534
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 235
-  repository: 543969974
-  what: issue-was-opened
-  when: 2025-09-28 02:13:30.000000000 Z
-  where: github
-  who: 70325462
-- _id: 46
-  _time: 2025-10-04 20:21:20.379944745 Z
-  _version: 0.5.0/0.31.1/
-  comments: 3
-  commits: 1
-  details: The pull request objectionary/sodg.rs#234 has been reviewed by @yegor256
-    with 2 HoC and 3 comments.
-  event_id: 55279145178
-  event_type: PullRequestReviewEvent
-  files: 1
-  hoc: 2
-  is_human: 1
-  issue: 234
-  repository: 543969974
-  what: pull-was-reviewed
-  when: 2025-09-27 02:41:47.000000000 Z
-  where: github
-  who: 526301
-- _id: 47
-  _time: 2025-10-04 20:21:20.801512691 Z
-  _version: 0.5.0/0.31.1/
-  branch: renovate/crate-ci-typos-1.x
-  details: The pull request objectionary/sodg.rs#234 has been opened by @renovate[bot].
-  event_id: 55270949745
+  branch: renovate/org.pitest-pitest-maven-1.x
+  details: The pull request objectionary/lints#773 has been opened by @renovate[bot].
+  event_id: 55513248210
   event_type: PullRequestEvent
   is_human: 0
-  issue: 234
-  repository: 543969974
+  issue: 773
+  repository: 889819508
   what: pull-was-opened
-  when: 2025-09-26 20:09:21.000000000 Z
+  when: 2025-10-02 10:29:58.000000000 Z
   where: github
   who: 29139614
-- _id: 48
-  _time: 2025-10-04 20:21:21.056536020 Z
+- _id: 42
+  _time: 2025-10-04 21:18:29.922088585 Z
   _version: 0.5.0/0.31.1/
-  details: The issue objectionary/sodg.rs#232 has been opened by @RAprogramm.
-  event_id: 55168464922
+  branch: renovate/jna-monorepo
+  comments: 1
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 1
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/lints#770 has been closed by @yegor256, with
+    2 HoC and 1 comments.
+  event_id: 55446622355
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 2
+  is_human: 1
+  issue: 770
+  repository: 889819508
+  succeeded_builds: 21
+  what: pull-was-merged
+  when: 2025-10-01 06:06:15.000000000 Z
+  where: github
+  who: 526301
+- _id: 43
+  _time: 2025-10-04 21:18:45.806504640 Z
+  _version: 0.5.0/0.31.1/
+  branch: renovate/crate-ci-typos-1.x
+  comments: 1
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 1
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/lints#771 has been closed by @yegor256, with
+    2 HoC and 1 comments.
+  event_id: 55446610142
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 2
+  is_human: 1
+  issue: 771
+  repository: 889819508
+  succeeded_builds: 21
+  what: pull-was-merged
+  when: 2025-10-01 06:05:54.000000000 Z
+  where: github
+  who: 526301
+- _id: 44
+  _time: 2025-10-04 21:19:01.434833200 Z
+  _version: 0.5.0/0.31.1/
+  branch: renovate/crate-ci-typos-1.x
+  details: The pull request objectionary/lints#771 has been opened by @renovate[bot].
+  event_id: 55432273270
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 771
+  repository: 889819508
+  what: pull-was-opened
+  when: 2025-09-30 21:28:33.000000000 Z
+  where: github
+  who: 29139614
+- _id: 45
+  _time: 2025-10-04 21:19:01.444312130 Z
+  _version: 0.5.0/0.31.1/
+  branch: renovate/jna-monorepo
+  details: The pull request objectionary/lints#770 has been opened by @renovate[bot].
+  event_id: 55432270456
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 770
+  repository: 889819508
+  what: pull-was-opened
+  when: 2025-09-30 21:28:28.000000000 Z
+  where: github
+  who: 29139614
+- _id: 46
+  _time: 2025-10-04 21:19:01.942643281 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/lints#767 has been closed by @h1alexbel.
+  event_id: 55417265698
   event_type: IssuesEvent
   is_human: 1
-  issue: 232
-  repository: 543969974
-  what: issue-was-opened
-  when: 2025-09-25 00:18:26.000000000 Z
+  issue: 767
+  repository: 889819508
+  what: issue-was-closed
+  when: 2025-09-30 15:43:14.000000000 Z
   where: github
-  who: 70325462
-- _id: 49
-  _time: 2025-10-04 20:21:21.065065247 Z
+  who: 83453843
+- _id: 47
+  _time: 2025-10-04 21:19:02.194236505 Z
   _version: 0.5.0/0.31.1/
-  branch: '230'
-  details: The pull request objectionary/sodg.rs#231 has been opened by @RAprogramm.
-  event_id: 55167652173
+  details: The issue objectionary/lints#769 has been opened by @0pdd.
+  event_id: 55417219191
+  event_type: IssuesEvent
+  is_human: 0
+  issue: 769
+  repository: 889819508
+  what: issue-was-opened
+  when: 2025-09-30 15:42:19.000000000 Z
+  where: github
+  who: 24456188
+- _id: 48
+  _time: 2025-10-04 21:19:02.619591864 Z
+  _version: 0.5.0/0.31.1/
+  branch: '767'
+  comments: 2
+  comments_appreciated: 0
+  comments_by_author: 1
+  comments_by_reviewers: 3
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/lints#768 has been closed by @yegor256, with
+    14 HoC and 2 comments.
+  event_id: 55417214192
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 14
+  is_human: 1
+  issue: 768
+  repository: 889819508
+  succeeded_builds: 21
+  what: pull-was-merged
+  when: 2025-09-30 15:42:13.000000000 Z
+  where: github
+  who: 526301
+- _id: 49
+  _time: 2025-10-04 21:19:18.630917253 Z
+  _version: 0.5.0/0.31.1/
+  comments: 4
+  commits: 1
+  details: The pull request objectionary/lints#768 has been reviewed by @yegor256
+    with 14 HoC and 4 comments.
+  event_id: 55417186553
+  event_type: PullRequestReviewEvent
+  files: 3
+  hoc: 14
+  is_human: 1
+  issue: 768
+  repository: 889819508
+  what: pull-was-reviewed
+  when: 2025-09-30 15:41:41.000000000 Z
+  where: github
+  who: 526301
+- _id: 50
+  _time: 2025-10-04 21:19:19.042001305 Z
+  _version: 0.5.0/0.31.1/
+  branch: '767'
+  details: The pull request objectionary/lints#768 has been opened by @h1alexbel.
+  event_id: 55415481048
   event_type: PullRequestEvent
   is_human: 1
-  issue: 231
-  repository: 543969974
-  what: pull-was-opened
-  when: 2025-09-24 23:40:06.000000000 Z
-  where: github
-  who: 70325462
-- _id: 50
-  _time: 2025-10-04 20:21:39.377386335 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 570457023
-  what: labels-were-scanned
-  where: github
-- _id: 51
-  _time: 2025-10-04 20:21:39.381619497 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 492899189
-  what: labels-were-scanned
-  where: github
-- _id: 52
-  _time: 2025-10-04 20:21:39.385933210 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 551486781
-  what: labels-were-scanned
-  where: github
-- _id: 53
-  _time: 2025-10-04 20:21:39.390288550 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 73056727
-  what: labels-were-scanned
-  where: github
-- _id: 54
-  _time: 2025-10-04 20:21:39.394617061 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 490221501
-  what: labels-were-scanned
-  where: github
-- _id: 55
-  _time: 2025-10-04 20:21:39.399149172 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 733919301
-  what: labels-were-scanned
-  where: github
-- _id: 56
-  _time: 2025-10-04 20:21:39.406545917 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 970961472
-  what: labels-were-scanned
-  where: github
-- _id: 57
-  _time: 2025-10-04 20:21:39.415116556 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
+  issue: 768
   repository: 889819508
-  what: labels-were-scanned
+  what: pull-was-opened
+  when: 2025-09-30 15:10:29.000000000 Z
   where: github
+  who: 83453843
+- _id: 51
+  _time: 2025-10-04 21:19:19.058061837 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/lints#767 has been opened by @h1alexbel.
+  event_id: 55414316859
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 767
+  repository: 889819508
+  what: issue-was-opened
+  when: 2025-09-30 14:50:37.000000000 Z
+  where: github
+  who: 83453843
+- _id: 52
+  _time: 2025-10-04 21:19:19.634098949 Z
+  _version: 0.5.0/0.31.1/
+  branch: '759'
+  comments: 12
+  comments_appreciated: 3
+  comments_by_author: 5
+  comments_by_reviewers: 8
+  comments_resolved: 3
+  comments_to_code: 5
+  details: The pull request objectionary/lints#764 has been closed by @yegor256, with
+    150 HoC and 12 comments.
+  event_id: 55354587545
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 150
+  is_human: 1
+  issue: 764
+  repository: 889819508
+  succeeded_builds: 21
+  what: pull-was-merged
+  when: 2025-09-29 15:01:59.000000000 Z
+  where: github
+  who: 526301
+- _id: 53
+  _time: 2025-10-04 21:19:39.118643712 Z
+  _version: 0.5.0/0.31.1/
+  branch: renovate/com.jcabi-parent-0.x
+  details: The pull request objectionary/lints#765 has been opened by @renovate[bot].
+  event_id: 55251718804
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 765
+  repository: 889819508
+  what: pull-was-opened
+  when: 2025-09-26 12:43:08.000000000 Z
+  where: github
+  who: 29139614
+- _id: 54
+  _time: 2025-10-04 21:19:39.395674386 Z
+  _version: 0.5.0/0.31.1/
+  branch: '759'
+  details: The pull request objectionary/lints#764 has been opened by @h1alexbel.
+  event_id: 55247035400
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 764
+  repository: 889819508
+  what: pull-was-opened
+  when: 2025-09-26 11:00:04.000000000 Z
+  where: github
+  who: 83453843
+- _id: 55
+  _time: 2025-10-04 21:19:39.418116131 Z
+  _version: 0.5.0/0.31.1/
+  branch: renovate/org.eolang-hone-maven-plugin-0.x
+  details: The pull request objectionary/lints#763 has been opened by @renovate[bot].
+  event_id: 55242983451
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 763
+  repository: 889819508
+  what: pull-was-opened
+  when: 2025-09-26 09:32:38.000000000 Z
+  where: github
+  who: 29139614
+- _id: 56
+  _time: 2025-10-04 21:19:39.430992515 Z
+  _version: 0.5.0/0.31.1/
+  branch: renovate/jna-monorepo
+  details: The pull request objectionary/lints#762 has been opened by @renovate[bot].
+  event_id: 55242978594
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 762
+  repository: 889819508
+  what: pull-was-opened
+  when: 2025-09-26 09:32:32.000000000 Z
+  where: github
+  who: 29139614
+- _id: 57
+  _time: 2025-10-04 21:19:39.897353579 Z
+  _version: 0.5.0/0.31.1/
+  branch: renovate/org.eolang-eo-parser-0.x
+  details: The pull request objectionary/lints#761 has been opened by @renovate[bot].
+  event_id: 55238933847
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 761
+  repository: 889819508
+  what: pull-was-opened
+  when: 2025-09-26 08:06:47.000000000 Z
+  where: github
+  who: 29139614
 - _id: 58
-  _time: 2025-10-04 20:21:39.424287969 Z
+  _time: 2025-10-04 21:19:39.945217891 Z
   _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 531151981
-  what: labels-were-scanned
+  branch: renovate/crate-ci-typos-1.x
+  details: The pull request objectionary/lints#760 has been opened by @renovate[bot].
+  event_id: 55238921165
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 760
+  repository: 889819508
+  what: pull-was-opened
+  when: 2025-09-26 08:06:30.000000000 Z
   where: github
+  who: 29139614
 - _id: 59
-  _time: 2025-10-04 20:21:39.430746671 Z
+  _time: 2025-10-04 21:19:40.359335977 Z
   _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 798766850
-  what: labels-were-scanned
+  branch: renovate/org.pitest-pitest-maven-1.x
+  comments: 1
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 1
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/lints#718 has been closed by @yegor256, with
+    2 HoC and 1 comments.
+  event_id: 55238920527
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 2
+  is_human: 1
+  issue: 718
+  repository: 889819508
+  succeeded_builds: 20
+  what: pull-was-merged
+  when: 2025-09-26 08:06:29.000000000 Z
   where: github
+  who: 526301
 - _id: 60
-  _time: 2025-10-04 20:21:39.436754660 Z
+  _time: 2025-10-04 21:19:55.787468548 Z
   _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 784310467
-  what: labels-were-scanned
+  branch: renovate/com.github.spotbugs-spotbugs-4.x
+  comments: 1
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 1
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/lints#755 has been closed by @yegor256, with
+    2 HoC and 1 comments.
+  event_id: 55238908859
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 2
+  is_human: 1
+  issue: 755
+  repository: 889819508
+  succeeded_builds: 20
+  what: pull-was-merged
+  when: 2025-09-26 08:06:14.000000000 Z
   where: github
+  who: 526301
+- _id: 61
+  _time: 2025-10-04 21:20:10.779968739 Z
+  _version: 0.5.0/0.31.1/
+  branch: renovate/com.github.spotbugs-spotbugs-maven-plugin-4.x
+  comments: 1
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 1
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/lints#756 has been closed by @yegor256, with
+    2 HoC and 1 comments.
+  event_id: 55238901210
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 2
+  is_human: 1
+  issue: 756
+  repository: 889819508
+  succeeded_builds: 20
+  what: pull-was-merged
+  when: 2025-09-26 08:06:04.000000000 Z
+  where: github
+  who: 526301
 - _id: 62
-  _time: 2025-10-04 20:21:39.931821885 Z
+  _time: 2025-10-04 21:20:25.790042249 Z
   _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 546194972
-  what: labels-were-scanned
+  branch: renovate/com.qulice-qulice-maven-plugin-0.x
+  comments: 1
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 1
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/lints#757 has been closed by @yegor256, with
+    4 HoC and 1 comments.
+  event_id: 55238895005
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 4
+  is_human: 1
+  issue: 757
+  repository: 889819508
+  succeeded_builds: 20
+  what: pull-was-merged
+  when: 2025-09-26 08:05:56.000000000 Z
   where: github
+  who: 526301
 - _id: 63
-  _time: 2025-10-04 20:21:39.938149953 Z
+  _time: 2025-10-04 21:20:40.618327761 Z
   _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 552394123
-  what: labels-were-scanned
+  branch: renovate/com.yegor256-together-0.x
+  comments: 1
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 1
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/lints#758 has been closed by @yegor256, with
+    2 HoC and 1 comments.
+  event_id: 55238887527
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 2
+  is_human: 1
+  issue: 758
+  repository: 889819508
+  succeeded_builds: 20
+  what: pull-was-merged
+  when: 2025-09-26 08:05:46.000000000 Z
   where: github
+  who: 526301
 - _id: 64
-  _time: 2025-10-04 20:21:39.943618805 Z
+  _time: 2025-10-04 21:20:57.021143380 Z
   _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 499536612
-  what: labels-were-scanned
+  details: The issue objectionary/lints#759 has been opened by @h1alexbel.
+  event_id: 55238764112
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 759
+  repository: 889819508
+  what: issue-was-opened
+  when: 2025-09-26 08:03:04.000000000 Z
   where: github
+  who: 83453843
 - _id: 65
-  _time: 2025-10-04 20:21:39.948777267 Z
+  _time: 2025-10-04 21:20:57.753914756 Z
   _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 519299365
-  what: labels-were-scanned
+  branch: renovate/com.github.spotbugs-spotbugs-maven-plugin-4.x
+  details: The pull request objectionary/lints#756 has been opened by @renovate[bot].
+  event_id: 54722682722
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 756
+  repository: 889819508
+  what: pull-was-opened
+  when: 2025-09-15 17:18:35.000000000 Z
   where: github
+  who: 29139614
 - _id: 66
-  _time: 2025-10-04 20:21:39.954028242 Z
+  _time: 2025-10-04 21:20:58.011591409 Z
   _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 501942888
-  what: labels-were-scanned
+  branch: renovate/com.github.spotbugs-spotbugs-4.x
+  details: The pull request objectionary/lints#755 has been opened by @renovate[bot].
+  event_id: 54722680795
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 755
+  repository: 889819508
+  what: pull-was-opened
+  when: 2025-09-15 17:18:32.000000000 Z
   where: github
+  who: 29139614
 - _id: 67
-  _time: 2025-10-04 20:21:39.959328148 Z
+  _time: 2025-10-04 21:20:58.413365275 Z
   _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 574534248
-  what: labels-were-scanned
+  branch: renovate/org.apache.maven.plugins-maven-surefire-plugin-3.x
+  comments: 1
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 1
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/lints#750 has been closed by @yegor256, with
+    2 HoC and 1 comments.
+  event_id: 54722672770
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 2
+  is_human: 1
+  issue: 750
+  repository: 889819508
+  succeeded_builds: 20
+  what: pull-was-merged
+  when: 2025-09-15 17:18:22.000000000 Z
   where: github
+  who: 526301
 - _id: 68
-  _time: 2025-10-04 20:21:39.964906174 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 519246071
-  what: labels-were-scanned
-  where: github
-- _id: 69
-  _time: 2025-10-04 20:21:39.973936092 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 568705267
-  what: labels-were-scanned
-  where: github
-- _id: 70
-  _time: 2025-10-04 20:21:39.983181582 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 493235807
-  what: labels-were-scanned
-  where: github
-- _id: 71
-  _time: 2025-10-04 20:21:39.990093361 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 510082372
-  what: labels-were-scanned
-  where: github
-- _id: 72
-  _time: 2025-10-04 20:21:39.996431207 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 482612876
-  what: labels-were-scanned
-  where: github
-- _id: 73
-  _time: 2025-10-04 20:21:40.005607739 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 489321585
-  what: labels-were-scanned
-  where: github
-- _id: 74
-  _time: 2025-10-04 20:21:40.013509108 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 840332960
-  what: labels-were-scanned
-  where: github
-- _id: 75
-  _time: 2025-10-04 20:21:40.021090288 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 721146770
-  what: labels-were-scanned
-  where: github
-- _id: 76
-  _time: 2025-10-04 20:21:40.028176843 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 671896902
-  what: labels-were-scanned
-  where: github
-- _id: 77
-  _time: 2025-10-04 20:21:40.035178008 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 396732517
-  what: labels-were-scanned
-  where: github
-- _id: 78
-  _time: 2025-10-04 20:21:40.042824968 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 1049128198
-  what: labels-were-scanned
-  where: github
-- _id: 79
-  _time: 2025-10-04 20:21:40.049025956 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 501259435
-  what: labels-were-scanned
-  where: github
-- _id: 80
-  _time: 2025-10-04 20:21:40.055367045 Z
+  _time: 2025-10-04 21:21:45.718122256 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 490157985
   what: labels-were-scanned
   where: github
-- _id: 81
-  _time: 2025-10-04 20:21:40.063821504 Z
+- _id: 69
+  _time: 2025-10-04 21:21:45.723158083 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 955159947
+  repository: 490221501
   what: labels-were-scanned
   where: github
-- _id: 82
-  _time: 2025-10-04 20:21:40.073127203 Z
+- _id: 70
+  _time: 2025-10-04 21:21:45.728217410 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 499536612
+  what: labels-were-scanned
+  where: github
+- _id: 71
+  _time: 2025-10-04 21:21:45.733245321 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 396732517
+  what: labels-were-scanned
+  where: github
+- _id: 72
+  _time: 2025-10-04 21:21:45.738318478 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 489321585
+  what: labels-were-scanned
+  where: github
+- _id: 73
+  _time: 2025-10-04 21:21:45.743528412 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 493235807
+  what: labels-were-scanned
+  where: github
+- _id: 74
+  _time: 2025-10-04 21:21:45.748805920 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 510082372
+  what: labels-were-scanned
+  where: github
+- _id: 75
+  _time: 2025-10-04 21:21:45.754204323 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 574459304
   what: labels-were-scanned
   where: github
-- _id: 83
-  _time: 2025-10-04 20:21:40.081203926 Z
+- _id: 76
+  _time: 2025-10-04 21:21:45.759661453 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 13623548
+  repository: 840332960
+  what: labels-were-scanned
+  where: github
+- _id: 77
+  _time: 2025-10-04 21:21:45.765119784 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 447446664
+  what: labels-were-scanned
+  where: github
+- _id: 78
+  _time: 2025-10-04 21:21:45.770721893 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 482612876
+  what: labels-were-scanned
+  where: github
+- _id: 79
+  _time: 2025-10-04 21:21:45.787504618 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 955159947
+  what: labels-were-scanned
+  where: github
+- _id: 80
+  _time: 2025-10-04 21:21:46.483926751 Z
+  _version: 0.5.0/0.31.1/
+  details: The '#bug' label was attached by @yegor256 to the issue objectionary/lints#759.
+  issue: 759
+  label: bug
+  repository: 889819508
+  what: label-was-attached
+  when: 2025-09-26 08:05:23.000000000 Z
+  where: github
+  who: 526301
+- _id: 82
+  _time: 2025-10-04 21:21:46.787784256 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 671896902
+  what: labels-were-scanned
+  where: github
+- _id: 83
+  _time: 2025-10-04 21:21:46.794800149 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 519299365
   what: labels-were-scanned
   where: github
 - _id: 84
-  _time: 2025-10-04 20:21:40.090104919 Z
+  _time: 2025-10-04 21:21:46.801991847 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 1037933692
+  repository: 552394123
   what: labels-were-scanned
   where: github
 - _id: 85
-  _time: 2025-10-04 20:21:40.097422142 Z
+  _time: 2025-10-04 21:21:46.809053528 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 977982682
   what: labels-were-scanned
   where: github
 - _id: 86
-  _time: 2025-10-04 20:21:40.105259658 Z
+  _time: 2025-10-04 21:21:46.817066227 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 447446664
+  repository: 1037933692
   what: labels-were-scanned
   where: github
 - _id: 87
-  _time: 2025-10-04 20:21:40.112999611 Z
+  _time: 2025-10-04 21:21:46.823266771 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 492899189
+  what: labels-were-scanned
+  where: github
+- _id: 88
+  _time: 2025-10-04 21:21:46.829486955 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 574534248
+  what: labels-were-scanned
+  where: github
+- _id: 89
+  _time: 2025-10-04 21:21:46.836030628 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 13623548
+  what: labels-were-scanned
+  where: github
+- _id: 90
+  _time: 2025-10-04 21:21:46.842748451 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 543969974
+  what: labels-were-scanned
+  where: github
+- _id: 91
+  _time: 2025-10-04 21:21:46.850031934 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 731516758
   what: labels-were-scanned
   where: github
-- _id: 88
-  _time: 2025-10-04 20:21:40.574919255 Z
-  _version: 0.5.0/0.31.1/
-  details: The '#bug' label was attached by @yegor256 to the issue objectionary/sodg.rs#235.
-  issue: 235
-  label: bug
-  repository: 543969974
-  what: label-was-attached
-  when: 2025-09-28 04:56:05.000000000 Z
-  where: github
-  who: 526301
-- _id: 89
-  _time: 2025-10-04 20:21:40.586592507 Z
+- _id: 92
+  _time: 2025-10-04 21:21:46.857053921 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 543969974
+  repository: 501942888
   what: labels-were-scanned
   where: github
-- _id: 90
-  _time: 2025-10-04 20:22:05.573052356 Z
+- _id: 93
+  _time: 2025-10-04 21:21:46.864159355 Z
   _version: 0.5.0/0.31.1/
-  average_triage_time: 9757.0
-  since: 2025-09-06 20:21:40.594951047 Z
+  latest: 0
+  repository: 568705267
+  what: labels-were-scanned
+  where: github
+- _id: 94
+  _time: 2025-10-04 21:21:46.878743866 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 784310467
+  what: labels-were-scanned
+  where: github
+- _id: 95
+  _time: 2025-10-04 21:21:46.889355749 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 501259435
+  what: labels-were-scanned
+  where: github
+- _id: 96
+  _time: 2025-10-04 21:21:46.900521495 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 551486781
+  what: labels-were-scanned
+  where: github
+- _id: 97
+  _time: 2025-10-04 21:21:46.911979919 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 519246071
+  what: labels-were-scanned
+  where: github
+- _id: 98
+  _time: 2025-10-04 21:21:46.921183773 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 570457023
+  what: labels-were-scanned
+  where: github
+- _id: 99
+  _time: 2025-10-04 21:21:46.929277491 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 546194972
+  what: labels-were-scanned
+  where: github
+- _id: 100
+  _time: 2025-10-04 21:21:46.937799653 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 721146770
+  what: labels-were-scanned
+  where: github
+- _id: 101
+  _time: 2025-10-04 21:21:46.946347782 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 970961472
+  what: labels-were-scanned
+  where: github
+- _id: 102
+  _time: 2025-10-04 21:21:46.955075877 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 73056727
+  what: labels-were-scanned
+  where: github
+- _id: 103
+  _time: 2025-10-04 21:21:46.963296363 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 798766850
+  what: labels-were-scanned
+  where: github
+- _id: 104
+  _time: 2025-10-04 21:21:46.972478378 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 1049128198
+  what: labels-were-scanned
+  where: github
+- _id: 105
+  _time: 2025-10-04 21:21:46.980336913 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 733919301
+  what: labels-were-scanned
+  where: github
+- _id: 106
+  _time: 2025-10-04 21:21:46.988184731 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 531151981
+  what: labels-were-scanned
+  where: github
+- _id: 107
+  _time: 2025-10-04 21:21:47.524764874 Z
+  _version: 0.5.0/0.31.1/
+  details: The '#bug' label was attached by @yegor256 to the issue objectionary/lints#767.
+  issue: 767
+  label: bug
+  repository: 889819508
+  what: label-was-attached
+  when: 2025-09-30 14:52:11.000000000 Z
+  where: github
+  who: 526301
+- _id: 108
+  _time: 2025-10-04 21:21:48.016997702 Z
+  _version: 0.5.0/0.31.1/
+  details: The '#bug' label was attached by @0pdd to the issue objectionary/lints#769.
+  issue: 769
+  label: bug
+  repository: 889819508
+  what: label-was-attached
+  when: 2025-09-30 15:42:18.000000000 Z
+  where: github
+  who: 24456188
+- _id: 109
+  _time: 2025-10-04 21:21:48.033730445 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 889819508
+  what: labels-were-scanned
+  where: github
+- _id: 110
+  _time: 2025-10-04 21:22:02.806404829 Z
+  _version: 0.5.0/0.31.1/
+  average_release_interval: 89371.07692307692
+  since: 2025-09-06 21:21:48.041430071 Z
   what: quality-of-service
-  when: 2025-10-04 20:21:40.594923025 Z
-- _id: 91
-  _time: 2025-10-04 20:25:13.401867118 Z
+  when: 2025-10-04 21:21:48.041407000 Z
+- _id: 111
+  _time: 2025-10-04 21:24:48.041251097 Z
   _version: 0.5.0/0.31.1/
-  since: 2025-09-06 20:24:40.593415837 Z
-  total_releases_published: 27
+  since: 2025-09-06 21:24:48.041389166 Z
   what: quantity-of-deliverables
-  when: 2025-10-04 20:24:40.593387494 Z
+  when: 2025-10-04 21:24:48.041362750 Z
