@@ -1,970 +1,550 @@
 ---
 - added: 8
   cycles: 1
-  error: undefined method `+' for nil
+  error: undefined method `[]' for nil
   removed: 8
-  seconds: 336.609668555
+  seconds: 375.097764172
   version: 0.31.1
   what: judges-summary
-  when: 2025-12-15 05:31:19.187388533 Z
+  when: 2025-12-15 06:42:13.776501293 Z
 - _id: 1
-  _time: 2025-12-15 05:28:03.363746335 Z
+  _time: 2025-12-15 06:38:48.323979788 Z
   _version: 0.5.0/0.31.1/
   total_active_contributors: 11
-  total_commits: 47921
   total_contributors: 482
-  total_files: 14219
-  total_forks: 364
-  total_issues: 4309
-  total_pulls: 7605
+  total_files: 14220
   total_releases: 804
-  total_repositories: 37
-  total_stars: 1702
   what: dimensions-of-terrain
-  when: 2025-12-15 05:25:42.906437616 Z
+  when: 2025-12-15 06:35:59.021696188 Z
 - _id: 2
-  _time: 2025-12-15 05:28:03.671545119 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 721146770
-  what: min-issue-was-found
-  where: github
-- _id: 3
-  _time: 2025-12-15 05:28:03.675970557 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 570457023
-  what: min-issue-was-found
-  where: github
-- _id: 4
-  _time: 2025-12-15 05:28:03.679968317 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 840332960
-  what: min-issue-was-found
-  where: github
-- _id: 5
-  _time: 2025-12-15 05:28:03.683297317 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 492899189
-  what: min-issue-was-found
-  where: github
-- _id: 6
-  _time: 2025-12-15 05:28:03.686392320 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 574459304
-  what: min-issue-was-found
-  where: github
-- _id: 7
-  _time: 2025-12-15 05:28:03.689989111 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 731516758
-  what: min-issue-was-found
-  where: github
-- _id: 8
-  _time: 2025-12-15 05:28:03.693205120 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 546194972
-  what: min-issue-was-found
-  where: github
-- _id: 9
-  _time: 2025-12-15 05:28:03.696794577 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 889819508
-  what: min-issue-was-found
-  where: github
-- _id: 10
-  _time: 2025-12-15 05:28:03.700291811 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 671896902
-  what: min-issue-was-found
-  where: github
-- _id: 11
-  _time: 2025-12-15 05:28:03.703757527 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 552394123
-  what: min-issue-was-found
-  where: github
-- _id: 12
-  _time: 2025-12-15 05:28:03.707316667 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 499536612
-  what: min-issue-was-found
-  where: github
-- _id: 13
-  _time: 2025-12-15 05:28:03.711173273 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 798766850
-  what: min-issue-was-found
-  where: github
-- _id: 14
-  _time: 2025-12-15 05:28:03.714827491 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 501259435
-  what: min-issue-was-found
-  where: github
-- _id: 15
-  _time: 2025-12-15 05:28:03.718450209 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 396732517
-  what: min-issue-was-found
-  where: github
-- _id: 16
-  _time: 2025-12-15 05:28:03.722363361 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 493235807
-  what: min-issue-was-found
-  where: github
-- _id: 17
-  _time: 2025-12-15 05:28:03.725913635 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 977982682
-  what: min-issue-was-found
-  where: github
-- _id: 18
-  _time: 2025-12-15 05:28:03.729287819 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 73056727
-  what: min-issue-was-found
-  where: github
-- _id: 19
-  _time: 2025-12-15 05:28:03.732750920 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 574534248
-  what: min-issue-was-found
-  where: github
-- _id: 20
-  _time: 2025-12-15 05:28:03.736259125 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 13623548
-  what: min-issue-was-found
-  where: github
-- _id: 21
-  _time: 2025-12-15 05:28:03.740027987 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 955159947
-  what: min-issue-was-found
-  where: github
-- _id: 22
-  _time: 2025-12-15 05:28:03.761637073 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 1049128198
-  what: min-issue-was-found
-  where: github
-- _id: 23
-  _time: 2025-12-15 05:28:03.771306981 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 551486781
-  what: min-issue-was-found
-  where: github
-- _id: 24
-  _time: 2025-12-15 05:28:03.780688460 Z
+  _time: 2025-12-15 06:39:11.185896494 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 490157985
   what: min-issue-was-found
   where: github
-- _id: 25
-  _time: 2025-12-15 05:28:03.791624344 Z
+- _id: 3
+  _time: 2025-12-15 06:39:11.188681522 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 531151981
+  repository: 574534248
   what: min-issue-was-found
   where: github
-- _id: 26
-  _time: 2025-12-15 05:28:03.803965623 Z
+- _id: 4
+  _time: 2025-12-15 06:39:11.203906635 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 568705267
+  repository: 570457023
   what: min-issue-was-found
   where: github
-- _id: 27
-  _time: 2025-12-15 05:28:03.813586660 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 447446664
-  what: min-issue-was-found
-  where: github
-- _id: 28
-  _time: 2025-12-15 05:28:03.821508862 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 510082372
-  what: min-issue-was-found
-  where: github
-- _id: 29
-  _time: 2025-12-15 05:28:03.828630168 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 970961472
-  what: min-issue-was-found
-  where: github
-- _id: 30
-  _time: 2025-12-15 05:28:03.837029051 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 543969974
-  what: min-issue-was-found
-  where: github
-- _id: 31
-  _time: 2025-12-15 05:28:03.848429383 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 784310467
-  what: min-issue-was-found
-  where: github
-- _id: 32
-  _time: 2025-12-15 05:28:03.860555560 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 519246071
-  what: min-issue-was-found
-  where: github
-- _id: 33
-  _time: 2025-12-15 05:28:03.867401311 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 482612876
-  what: min-issue-was-found
-  where: github
-- _id: 34
-  _time: 2025-12-15 05:28:03.874793583 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 490221501
-  what: min-issue-was-found
-  where: github
-- _id: 35
-  _time: 2025-12-15 05:28:03.882483291 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 501942888
-  what: min-issue-was-found
-  where: github
-- _id: 36
-  _time: 2025-12-15 05:28:03.892277872 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 1037933692
-  what: min-issue-was-found
-  where: github
-- _id: 37
-  _time: 2025-12-15 05:28:03.899011384 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 489321585
-  what: min-issue-was-found
-  where: github
-- _id: 38
-  _time: 2025-12-15 05:28:03.905419106 Z
+- _id: 5
+  _time: 2025-12-15 06:39:11.209427590 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 519299365
   what: min-issue-was-found
   where: github
-- _id: 39
-  _time: 2025-12-15 05:28:04.870561865 Z
-  _version: 0.5.0/0.31.1/
-  commit: e86fab6852d26dfc4ab7d4c38d061b6df046506b
-  default_branch: master
-  details: 'A new Git push #28973623474 has arrived to objectionary/eolang.sty, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 6679865023
-  event_type: PushEvent
-  is_human: 1
-  push_id: 28973623474
-  ref: refs/heads/master
-  repository: 546194972
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-12-12 13:26:08.000000000 Z
-  where: github
-  who: 526301
-- _id: 40
-  _time: 2025-12-15 05:28:05.139177867 Z
-  _version: 0.5.0/0.31.1/
-  details: The issue objectionary/eolang.sty#126 has been closed by @yegor256.
-  event_id: 5263012687
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 126
-  repository: 546194972
-  what: issue-was-closed
-  when: 2025-12-12 09:52:57.000000000 Z
-  where: github
-  who: 526301
-- _id: 41
-  _time: 2025-12-15 05:28:05.230078844 Z
-  _version: 0.5.0/0.31.1/
-  commits: 590
-  contributors:
-  - 526301
-  - 29139614
-  - 8086956
-  details: A new release 'typos, polishing needed' has been published in objectionary/eolang.sty
-    by @rultor.
-  event_id: 5262701432
-  event_type: ReleaseEvent
-  hoc: 4527
-  is_human: 0
-  last_commit: cd6ac8aa1aaf6940bec7a7f7cd073c1fecb31108
-  release: 269827702
-  repository: 546194972
-  tag: 0.20.3
-  what: release-published
-  when: 2025-12-12 09:37:20.000000000 Z
-  where: github
-  who: 8086956
-- _id: 42
-  _time: 2025-12-15 05:28:13.054922900 Z
-  _version: 0.5.0/0.31.1/
-  commit: a4cda34d3aea8e8de6e5d9b15122252e58b71615
-  default_branch: master
-  details: 'A new Git push #28967380167 has arrived to objectionary/eolang.sty, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 6673627018
-  event_type: PushEvent
-  is_human: 1
-  push_id: 28967380167
-  ref: refs/heads/master
-  repository: 546194972
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-12-12 09:06:52.000000000 Z
-  where: github
-  who: 526301
-- _id: 43
-  _time: 2025-12-15 05:28:13.208860242 Z
-  _version: 0.5.0/0.31.1/
-  commit: fe03aa4887e15b89dfa88d1eecc6131ef32a74e7
-  default_branch: master
-  details: 'A new Git push #28967229589 has arrived to objectionary/eolang.sty, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 6673476464
-  event_type: PushEvent
-  is_human: 1
-  push_id: 28967229589
-  ref: refs/heads/master
-  repository: 546194972
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-12-12 09:00:51.000000000 Z
-  where: github
-  who: 526301
-- _id: 44
-  _time: 2025-12-15 05:28:13.391618091 Z
-  _version: 0.5.0/0.31.1/
-  commit: 303b75b6b5688db62196b7aefd07b83856491b32
-  default_branch: master
-  details: 'A new Git push #28967198166 has arrived to objectionary/eolang.sty, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 6673445534
-  event_type: PushEvent
-  is_human: 1
-  push_id: 28967198166
-  ref: refs/heads/master
-  repository: 546194972
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-12-12 08:59:45.000000000 Z
-  where: github
-  who: 526301
-- _id: 45
-  _time: 2025-12-15 05:28:13.574905614 Z
-  _version: 0.5.0/0.31.1/
-  commit: 8733235e3dfd136958e64b970bc6cf0dc807afbf
-  default_branch: master
-  details: 'A new Git push #28967127390 has arrived to objectionary/eolang.sty, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 6673374740
-  event_type: PushEvent
-  is_human: 1
-  push_id: 28967127390
-  ref: refs/heads/master
-  repository: 546194972
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-12-12 08:56:36.000000000 Z
-  where: github
-  who: 526301
-- _id: 46
-  _time: 2025-12-15 05:28:13.767883557 Z
-  _version: 0.5.0/0.31.1/
-  details: The issue objectionary/eolang.sty#126 has been opened by @yegor256.
-  event_id: 5261855989
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 126
-  repository: 546194972
-  what: issue-was-opened
-  when: 2025-12-12 08:56:18.000000000 Z
-  where: github
-  who: 526301
-- _id: 47
-  _time: 2025-12-15 05:28:14.757372457 Z
-  _version: 0.5.0/0.31.1/
-  commit: c1221e9ae210a27288db8e284aa4011c7fee6079
-  default_branch: master
-  details: 'A new Git push #28964486904 has arrived to objectionary/eolang.sty, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 6670737543
-  event_type: PushEvent
-  is_human: 1
-  push_id: 28964486904
-  ref: refs/heads/master
-  repository: 546194972
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-12-12 06:48:16.000000000 Z
-  where: github
-  who: 526301
-- _id: 48
-  _time: 2025-12-15 05:28:14.959148914 Z
-  _version: 0.5.0/0.31.1/
-  branch: renovate/jamesives-github-pages-deploy-action-4.x
-  details: The pull request objectionary/eolang.sty#125 has been opened by @renovate[bot].
-  event_id: 5197042032
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 125
-  repository: 546194972
-  what: pull-was-opened
-  when: 2025-12-09 18:04:16.000000000 Z
-  where: github
-  who: 29139614
-- _id: 49
-  _time: 2025-12-15 05:28:15.047592839 Z
-  _version: 0.5.0/0.31.1/
-  branch: renovate/davidanson-markdownlint-cli2-action-22.x
-  details: The pull request objectionary/eolang.sty#124 has been opened by @renovate[bot].
-  event_id: 5185011889
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 124
-  repository: 546194972
-  what: pull-was-opened
-  when: 2025-12-09 09:56:16.000000000 Z
-  where: github
-  who: 29139614
-- _id: 50
-  _time: 2025-12-15 05:28:15.058270982 Z
-  _version: 0.5.0/0.31.1/
-  branch: renovate/crate-ci-typos-1.x
-  details: The pull request objectionary/eolang.sty#123 has been opened by @renovate[bot].
-  event_id: 4938602988
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 123
-  repository: 546194972
-  what: pull-was-opened
-  when: 2025-11-26 21:37:29.000000000 Z
-  where: github
-  who: 29139614
-- _id: 51
-  _time: 2025-12-15 05:28:15.069019456 Z
-  _version: 0.5.0/0.31.1/
-  details: The issue objectionary/eolang.sty#122 has been closed by @yegor256.
-  event_id: 4868400957
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 122
-  repository: 546194972
-  what: issue-was-closed
-  when: 2025-11-24 09:15:45.000000000 Z
-  where: github
-  who: 526301
-- _id: 52
-  _time: 2025-12-15 05:28:15.083303477 Z
-  _version: 0.5.0/0.31.1/
-  commits: 1
-  contributors: 8086956
-  details: A new release 'numbers formatting is not consistent' has been published
-    in objectionary/eolang.sty by @rultor.
-  event_id: 4867898563
-  event_type: ReleaseEvent
-  hoc: 12
-  is_human: 0
-  last_commit: 4bb7d41ee908efe5e43cc641f91f1111edfb8761
-  release: 264717242
-  repository: 546194972
-  tag: 0.20.2
-  what: release-published
-  when: 2025-11-24 08:56:33.000000000 Z
-  where: github
-  who: 8086956
-- _id: 53
-  _time: 2025-12-15 05:28:15.425215715 Z
-  _version: 0.5.0/0.31.1/
-  commit: cf3d465da188b6b74718573aeac1bea1f0825e59
-  default_branch: master
-  details: 'A new Git push #28487162269 has arrived to objectionary/eolang.sty, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 6193020956
-  event_type: PushEvent
-  is_human: 1
-  push_id: 28487162269
-  ref: refs/heads/master
-  repository: 546194972
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-11-24 08:45:11.000000000 Z
-  where: github
-  who: 526301
-- _id: 54
-  _time: 2025-12-15 05:28:15.633208792 Z
-  _version: 0.5.0/0.31.1/
-  commit: b1b7b0ee66fba3bcc0928e8f5def2719f7d05bf9
-  default_branch: master
-  details: 'A new Git push #28487059090 has arrived to objectionary/eolang.sty, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 6192917840
-  event_type: PushEvent
-  is_human: 1
-  push_id: 28487059090
-  ref: refs/heads/master
-  repository: 546194972
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-11-24 08:40:44.000000000 Z
-  where: github
-  who: 526301
-- _id: 55
-  _time: 2025-12-15 05:28:15.829368850 Z
-  _version: 0.5.0/0.31.1/
-  commit: a0ac6a4f397bdee845de8bf9cf404f1a4caad456
-  default_branch: master
-  details: 'A new Git push #28486865428 has arrived to objectionary/eolang.sty, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 6192724309
-  event_type: PushEvent
-  is_human: 1
-  push_id: 28486865428
-  ref: refs/heads/master
-  repository: 546194972
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-11-24 08:32:09.000000000 Z
-  where: github
-  who: 526301
-- _id: 56
-  _time: 2025-12-15 05:28:15.980733983 Z
-  _version: 0.5.0/0.31.1/
-  commit: 5c9fddc172c85c849670b395a184d543c1d6966e
-  default_branch: master
-  details: 'A new Git push #28486793613 has arrived to objectionary/eolang.sty, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 6192653073
-  event_type: PushEvent
-  is_human: 1
-  push_id: 28486793613
-  ref: refs/heads/master
-  repository: 546194972
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-11-24 08:29:03.000000000 Z
-  where: github
-  who: 526301
-- _id: 57
-  _time: 2025-12-15 05:28:16.190390408 Z
-  _version: 0.5.0/0.31.1/
-  commit: 2d3c2861606ee60e47c8c2c76f244294550e7754
-  default_branch: master
-  details: 'A new Git push #28486574235 has arrived to objectionary/eolang.sty, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 6192434000
-  event_type: PushEvent
-  is_human: 1
-  push_id: 28486574235
-  ref: refs/heads/master
-  repository: 546194972
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-11-24 08:19:07.000000000 Z
-  where: github
-  who: 526301
-- _id: 58
-  _time: 2025-12-15 05:28:16.352221245 Z
-  _version: 0.5.0/0.31.1/
-  details: The issue objectionary/eolang.sty#122 has been opened by @yegor256.
-  event_id: 4866997778
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 122
-  repository: 546194972
-  what: issue-was-opened
-  when: 2025-11-24 08:17:57.000000000 Z
-  where: github
-  who: 526301
-- _id: 59
-  _time: 2025-12-15 05:28:17.247642301 Z
-  _version: 0.5.0/0.31.1/
-  branch: renovate/actions-checkout-6.x
-  details: The pull request objectionary/eolang.sty#121 has been opened by @renovate[bot].
-  event_id: 4812823745
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 121
-  repository: 546194972
-  what: pull-was-opened
-  when: 2025-11-20 16:43:34.000000000 Z
-  where: github
-  who: 29139614
-- _id: 60
-  _time: 2025-12-15 05:28:17.339766557 Z
-  _version: 0.5.0/0.31.1/
-  branch: renovate/davidanson-markdownlint-cli2-action-21.x
-  details: The pull request objectionary/eolang.sty#120 has been opened by @renovate[bot].
-  event_id: 4712718899
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 120
-  repository: 546194972
-  what: pull-was-opened
-  when: 2025-11-17 01:52:54.000000000 Z
-  where: github
-  who: 29139614
-- _id: 61
-  _time: 2025-12-15 05:28:17.347196950 Z
-  _version: 0.5.0/0.31.1/
-  latest: 6679865023
-  repository: 546194972
-  what: events-were-scanned
-  where: github
-- _id: 62
-  _time: 2025-12-15 05:28:17.728785336 Z
-  _version: 0.5.0/0.31.1/
-  latest: 6674862086
-  repository: 721146770
-  what: events-were-scanned
-  where: github
-- _id: 63
-  _time: 2025-12-15 05:28:18.144744984 Z
-  _version: 0.5.0/0.31.1/
-  branch: renovate/com.qulice-qulice-maven-plugin-0.x
-  details: The pull request objectionary/xax#161 has been opened by @renovate[bot].
-  event_id: 4813265277
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 161
-  repository: 574534248
-  what: pull-was-opened
-  when: 2025-11-20 17:01:53.000000000 Z
-  where: github
-  who: 29139614
-- _id: 64
-  _time: 2025-12-15 05:28:18.357792553 Z
+- _id: 6
+  _time: 2025-12-15 06:39:11.213858636 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 574534248
-  what: labels-were-scanned
+  repository: 489321585
+  what: min-issue-was-found
   where: github
-- _id: 65
-  _time: 2025-12-15 05:28:18.362913258 Z
+- _id: 7
+  _time: 2025-12-15 06:39:11.218357870 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 501259435
+  what: min-issue-was-found
+  where: github
+- _id: 8
+  _time: 2025-12-15 06:39:11.222346720 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 543969974
+  what: min-issue-was-found
+  where: github
+- _id: 9
+  _time: 2025-12-15 06:39:11.226053672 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 510082372
+  what: min-issue-was-found
+  where: github
+- _id: 10
+  _time: 2025-12-15 06:39:11.230138411 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 970961472
+  what: min-issue-was-found
+  where: github
+- _id: 11
+  _time: 2025-12-15 06:39:11.233987910 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 568705267
+  what: min-issue-was-found
+  where: github
+- _id: 12
+  _time: 2025-12-15 06:39:11.238020581 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 73056727
+  what: min-issue-was-found
+  where: github
+- _id: 13
+  _time: 2025-12-15 06:39:11.241949739 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 531151981
+  what: min-issue-was-found
+  where: github
+- _id: 14
+  _time: 2025-12-15 06:39:11.245862406 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 447446664
+  what: min-issue-was-found
+  where: github
+- _id: 15
+  _time: 2025-12-15 06:39:11.249534383 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 574459304
+  what: min-issue-was-found
+  where: github
+- _id: 16
+  _time: 2025-12-15 06:39:11.252906379 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 889819508
+  what: min-issue-was-found
+  where: github
+- _id: 17
+  _time: 2025-12-15 06:39:11.256313781 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 493235807
+  what: min-issue-was-found
+  where: github
+- _id: 18
+  _time: 2025-12-15 06:39:11.259750959 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 840332960
+  what: min-issue-was-found
+  where: github
+- _id: 19
+  _time: 2025-12-15 06:39:11.263229413 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 396732517
+  what: min-issue-was-found
+  where: github
+- _id: 20
+  _time: 2025-12-15 06:39:11.266770696 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 671896902
+  what: min-issue-was-found
+  where: github
+- _id: 21
+  _time: 2025-12-15 06:39:11.270351492 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 13623548
+  what: min-issue-was-found
+  where: github
+- _id: 22
+  _time: 2025-12-15 06:39:11.282743036 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 546194972
+  what: min-issue-was-found
+  where: github
+- _id: 23
+  _time: 2025-12-15 06:39:11.289834738 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 492899189
+  what: min-issue-was-found
+  where: github
+- _id: 24
+  _time: 2025-12-15 06:39:11.297604247 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 519246071
+  what: min-issue-was-found
+  where: github
+- _id: 25
+  _time: 2025-12-15 06:39:11.305578560 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 490221501
+  what: min-issue-was-found
+  where: github
+- _id: 26
+  _time: 2025-12-15 06:39:11.313625358 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 977982682
+  what: min-issue-was-found
+  where: github
+- _id: 27
+  _time: 2025-12-15 06:39:11.320220542 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 499536612
+  what: min-issue-was-found
+  where: github
+- _id: 28
+  _time: 2025-12-15 06:39:11.325330437 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 731516758
+  what: min-issue-was-found
+  where: github
+- _id: 29
+  _time: 2025-12-15 06:39:11.331733922 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 1037933692
+  what: min-issue-was-found
+  where: github
+- _id: 30
+  _time: 2025-12-15 06:39:11.338037470 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 1049128198
+  what: min-issue-was-found
+  where: github
+- _id: 31
+  _time: 2025-12-15 06:39:11.342851353 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 798766850
+  what: min-issue-was-found
+  where: github
+- _id: 32
+  _time: 2025-12-15 06:39:11.348867043 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 552394123
+  what: min-issue-was-found
+  where: github
+- _id: 33
+  _time: 2025-12-15 06:39:11.354741719 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 721146770
+  what: min-issue-was-found
+  where: github
+- _id: 34
+  _time: 2025-12-15 06:39:11.360751708 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 784310467
+  what: min-issue-was-found
+  where: github
+- _id: 35
+  _time: 2025-12-15 06:39:11.366668453 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 482612876
+  what: min-issue-was-found
+  where: github
+- _id: 36
+  _time: 2025-12-15 06:39:11.372791864 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 501942888
+  what: min-issue-was-found
+  where: github
+- _id: 37
+  _time: 2025-12-15 06:39:11.378601128 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 551486781
+  what: min-issue-was-found
+  where: github
+- _id: 38
+  _time: 2025-12-15 06:39:11.384195550 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 955159947
+  what: min-issue-was-found
+  where: github
+- _id: 39
+  _time: 2025-12-15 06:39:13.530262795 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 889819508
   what: labels-were-scanned
   where: github
-- _id: 66
-  _time: 2025-12-15 05:28:18.396132278 Z
+- _id: 40
+  _time: 2025-12-15 06:39:13.534259569 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 519246071
+  what: labels-were-scanned
+  where: github
+- _id: 41
+  _time: 2025-12-15 06:39:13.538336253 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 492899189
+  what: labels-were-scanned
+  where: github
+- _id: 42
+  _time: 2025-12-15 06:39:13.542453512 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 490157985
+  what: labels-were-scanned
+  where: github
+- _id: 43
+  _time: 2025-12-15 06:39:13.546614624 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 784310467
+  what: labels-were-scanned
+  where: github
+- _id: 44
+  _time: 2025-12-15 06:39:13.550822713 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 574534248
+  what: labels-were-scanned
+  where: github
+- _id: 45
+  _time: 2025-12-15 06:39:13.555127513 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 574459304
   what: labels-were-scanned
   where: github
-- _id: 67
-  _time: 2025-12-15 05:28:18.407883480 Z
+- _id: 46
+  _time: 2025-12-15 06:39:13.568729350 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 501259435
+  repository: 955159947
   what: labels-were-scanned
   where: github
-- _id: 68
-  _time: 2025-12-15 05:28:18.419027296 Z
+- _id: 47
+  _time: 2025-12-15 06:39:13.576388894 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 501942888
+  what: labels-were-scanned
+  where: github
+- _id: 48
+  _time: 2025-12-15 06:39:13.582765709 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 531151981
+  what: labels-were-scanned
+  where: github
+- _id: 49
+  _time: 2025-12-15 06:39:13.588308695 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 840332960
+  what: labels-were-scanned
+  where: github
+- _id: 50
+  _time: 2025-12-15 06:39:13.594071973 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 447446664
+  what: labels-were-scanned
+  where: github
+- _id: 51
+  _time: 2025-12-15 06:39:13.600182961 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 970961472
+  what: labels-were-scanned
+  where: github
+- _id: 52
+  _time: 2025-12-15 06:39:13.606117128 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 489321585
+  what: labels-were-scanned
+  where: github
+- _id: 53
+  _time: 2025-12-15 06:39:13.612301643 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 551486781
+  what: labels-were-scanned
+  where: github
+- _id: 54
+  _time: 2025-12-15 06:39:13.618305301 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 73056727
+  what: labels-were-scanned
+  where: github
+- _id: 55
+  _time: 2025-12-15 06:39:13.624064862 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 482612876
+  what: labels-were-scanned
+  where: github
+- _id: 56
+  _time: 2025-12-15 06:39:13.630559206 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 552394123
+  what: labels-were-scanned
+  where: github
+- _id: 57
+  _time: 2025-12-15 06:39:13.637365335 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 510082372
+  what: labels-were-scanned
+  where: github
+- _id: 58
+  _time: 2025-12-15 06:39:13.644059193 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 1049128198
+  what: labels-were-scanned
+  where: github
+- _id: 59
+  _time: 2025-12-15 06:39:13.649354836 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 977982682
+  what: labels-were-scanned
+  where: github
+- _id: 60
+  _time: 2025-12-15 06:39:13.654844061 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 570457023
+  what: labels-were-scanned
+  where: github
+- _id: 61
+  _time: 2025-12-15 06:39:13.660200108 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 568705267
+  what: labels-were-scanned
+  where: github
+- _id: 62
+  _time: 2025-12-15 06:39:13.665701035 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 798766850
   what: labels-were-scanned
   where: github
-- _id: 69
-  _time: 2025-12-15 05:28:18.646999220 Z
+- _id: 63
+  _time: 2025-12-15 06:39:13.671832351 Z
   _version: 0.5.0/0.31.1/
-  details: The '#bug' label was attached by @yegor256 to the issue objectionary/eolang.sty#122.
-  issue: 122
-  label: bug
-  repository: 546194972
-  what: label-was-attached
-  when: 2025-11-24 08:17:57.000000000 Z
+  latest: 0
+  repository: 671896902
+  what: labels-were-scanned
   where: github
-  who: 526301
+- _id: 64
+  _time: 2025-12-15 06:39:13.678111924 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 546194972
+  what: labels-were-scanned
+  where: github
+- _id: 65
+  _time: 2025-12-15 06:39:13.684565453 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 396732517
+  what: labels-were-scanned
+  where: github
+- _id: 66
+  _time: 2025-12-15 06:39:13.691014894 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 499536612
+  what: labels-were-scanned
+  where: github
+- _id: 67
+  _time: 2025-12-15 06:39:13.697775356 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 493235807
+  what: labels-were-scanned
+  where: github
+- _id: 68
+  _time: 2025-12-15 06:39:13.709323863 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 543969974
+  what: labels-were-scanned
+  where: github
+- _id: 69
+  _time: 2025-12-15 06:39:13.718710837 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 501259435
+  what: labels-were-scanned
+  where: github
+- _id: 70
+  _time: 2025-12-15 06:39:13.726188331 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 519299365
+  what: labels-were-scanned
+  where: github
 - _id: 71
-  _time: 2025-12-15 05:28:18.658719874 Z
+  _time: 2025-12-15 06:39:13.733441585 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 490221501
   what: labels-were-scanned
   where: github
 - _id: 72
-  _time: 2025-12-15 05:28:18.666806424 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 489321585
-  what: labels-were-scanned
-  where: github
-- _id: 73
-  _time: 2025-12-15 05:28:18.674605305 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 784310467
-  what: labels-were-scanned
-  where: github
-- _id: 74
-  _time: 2025-12-15 05:28:18.682173877 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 731516758
-  what: labels-were-scanned
-  where: github
-- _id: 75
-  _time: 2025-12-15 05:28:18.689775750 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 519299365
-  what: labels-were-scanned
-  where: github
-- _id: 76
-  _time: 2025-12-15 05:28:18.698238643 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 501942888
-  what: labels-were-scanned
-  where: github
-- _id: 77
-  _time: 2025-12-15 05:28:18.706087168 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 955159947
-  what: labels-were-scanned
-  where: github
-- _id: 78
-  _time: 2025-12-15 05:28:18.714886160 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 499536612
-  what: labels-were-scanned
-  where: github
-- _id: 79
-  _time: 2025-12-15 05:28:18.723288990 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 531151981
-  what: labels-were-scanned
-  where: github
-- _id: 80
-  _time: 2025-12-15 05:28:18.731516143 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 568705267
-  what: labels-were-scanned
-  where: github
-- _id: 81
-  _time: 2025-12-15 05:28:18.740085395 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 840332960
-  what: labels-were-scanned
-  where: github
-- _id: 82
-  _time: 2025-12-15 05:28:18.748013999 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 889819508
-  what: labels-were-scanned
-  where: github
-- _id: 83
-  _time: 2025-12-15 05:28:18.755727842 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 490157985
-  what: labels-were-scanned
-  where: github
-- _id: 84
-  _time: 2025-12-15 05:28:18.762431687 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 551486781
-  what: labels-were-scanned
-  where: github
-- _id: 85
-  _time: 2025-12-15 05:28:18.769457723 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 510082372
-  what: labels-were-scanned
-  where: github
-- _id: 86
-  _time: 2025-12-15 05:28:18.776444667 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 570457023
-  what: labels-were-scanned
-  where: github
-- _id: 87
-  _time: 2025-12-15 05:28:18.783391886 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 721146770
-  what: labels-were-scanned
-  where: github
-- _id: 88
-  _time: 2025-12-15 05:28:18.790407694 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 970961472
-  what: labels-were-scanned
-  where: github
-- _id: 89
-  _time: 2025-12-15 05:28:18.797538968 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 482612876
-  what: labels-were-scanned
-  where: github
-- _id: 90
-  _time: 2025-12-15 05:28:18.804797639 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 73056727
-  what: labels-were-scanned
-  where: github
-- _id: 91
-  _time: 2025-12-15 05:28:18.812122495 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 519246071
-  what: labels-were-scanned
-  where: github
-- _id: 92
-  _time: 2025-12-15 05:28:18.833413914 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 671896902
-  what: labels-were-scanned
-  where: github
-- _id: 93
-  _time: 2025-12-15 05:28:18.845378146 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 543969974
-  what: labels-were-scanned
-  where: github
-- _id: 94
-  _time: 2025-12-15 05:28:18.857532852 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 13623548
-  what: labels-were-scanned
-  where: github
-- _id: 95
-  _time: 2025-12-15 05:28:18.866819095 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 493235807
-  what: labels-were-scanned
-  where: github
-- _id: 96
-  _time: 2025-12-15 05:28:18.875833159 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 492899189
-  what: labels-were-scanned
-  where: github
-- _id: 97
-  _time: 2025-12-15 05:28:18.884852222 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 552394123
-  what: labels-were-scanned
-  where: github
-- _id: 98
-  _time: 2025-12-15 05:28:18.893949622 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 977982682
-  what: labels-were-scanned
-  where: github
-- _id: 99
-  _time: 2025-12-15 05:28:18.902843831 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 396732517
-  what: labels-were-scanned
-  where: github
-- _id: 100
-  _time: 2025-12-15 05:28:18.914077162 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 1049128198
-  what: labels-were-scanned
-  where: github
-- _id: 101
-  _time: 2025-12-15 05:28:18.925820448 Z
+  _time: 2025-12-15 06:39:13.742675483 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 1037933692
   what: labels-were-scanned
   where: github
-- _id: 102
-  _time: 2025-12-15 05:28:19.159686744 Z
-  _version: 0.5.0/0.31.1/
-  details: The '#bug' label was attached by @yegor256 to the issue objectionary/eolang.sty#126.
-  issue: 126
-  label: bug
-  repository: 546194972
-  what: label-was-attached
-  when: 2025-12-12 08:56:18.000000000 Z
-  where: github
-  who: 526301
-- _id: 103
-  _time: 2025-12-15 05:28:19.174709322 Z
+- _id: 73
+  _time: 2025-12-15 06:39:13.750401992 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 546194972
+  repository: 13623548
   what: labels-were-scanned
   where: github
-- _id: 104
-  _time: 2025-12-15 05:30:06.943305813 Z
+- _id: 74
+  _time: 2025-12-15 06:39:13.757892229 Z
   _version: 0.5.0/0.31.1/
-  average_release_interval: 246813.75
-  average_review_size: 0.8558139534883721
-  average_review_time: 34298.42953020134
-  average_reviewers_per_pull: 0.8697674418604651
-  average_reviews_per_pull: 1.1116279069767443
-  since: 2025-11-17 05:28:19.181852267 Z
+  latest: 0
+  repository: 721146770
+  what: labels-were-scanned
+  where: github
+- _id: 75
+  _time: 2025-12-15 06:39:13.765240121 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 731516758
+  what: labels-were-scanned
+  where: github
+- _id: 76
+  _time: 2025-12-15 06:41:04.676094392 Z
+  _version: 0.5.0/0.31.1/
+  average_pull_files_size: 4.358139534883721
+  average_pull_hoc_size: 92.53488372093024
+  since: 2025-11-17 06:39:13.772118484 Z
   what: quality-of-service
-  when: 2025-12-15 05:28:19.181827771 Z
-- _id: 105
-  _time: 2025-12-15 05:31:19.185260486 Z
+  when: 2025-12-15 06:39:13.772091032 Z
+- _id: 77
+  _time: 2025-12-15 06:42:13.774621668 Z
   _version: 0.5.0/0.31.1/
-  since: 2025-11-17 05:31:19.185379318 Z
+  since: 2025-11-17 06:42:13.774822684 Z
   what: quantity-of-deliverables
-  when: 2025-12-15 05:31:19.185351566 Z
+  when: 2025-12-15 06:42:13.774796374 Z
