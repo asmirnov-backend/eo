@@ -220,21 +220,21 @@ This is how many milliseconds were spent on different XSL stylesheets
 <!-- benchmark_begin -->
 
 ```text
-to-java.xsl              54412  34.43%
-classes.xsl              45599  28.86%
-set-locators.xsl         12786  8.09%
-set-original-names.xsl   9700   6.14%
-attrs.xsl                8680   5.49%
-data.xsl                 7990   5.06%
-tests.xsl                6403   4.05%
-anonymous-to-nested.xsl  6272   3.97%
-package.xsl              6175   3.91%
+classes.xsl              40223  32.21%
+to-java.xsl              36958  29.59%
+set-locators.xsl         12374  9.91%
+set-original-names.xsl   8613   6.90%
+attrs.xsl                5778   4.63%
+data.xsl                 5625   4.50%
+package.xsl              5198   4.16%
+anonymous-to-nested.xsl  5121   4.10%
+tests.xsl                4997   4.00%
 ```
 
 The results were calculated in [this GHA job][benchmark-gha]
-on 2026-05-08 at 07:18,
+on 2026-07-01 at 09:20,
 on Linux with 4 CPUs.
-The total is 158017 milliseconds.
+The total is 124887 milliseconds.
 We show only the first 16 most expensive XSL stylesheets.
 
 <!-- benchmark_end -->
@@ -358,7 +358,7 @@ to enhance the performance of EO components:
 [![YourKit](https://www.yourkit.com/images/yklogo.png)](https://www.yourkit.com)
 
 [abstract objects]: https://www.yegor256.com/2020/12/01/abstract-objects.html
-[benchmark-gha]: https://github.com/objectionary/eo/actions/runs/25542370898
+[benchmark-gha]: https://github.com/asmirnov-backend/eo/actions/runs/28506928602
 [book]: http://www.yegor256.com/elegant-objects.html
 [C#]: https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29
 [C++]: https://en.wikipedia.org/wiki/C%2B%2B
